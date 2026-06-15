@@ -1,0 +1,27 @@
+name: Download Bear Map KML
+
+on:
+  schedule:
+    - cron: '0 18 * * *'  # 毎日 UTC 18:00 = JST 03:00
+  workflow_dispatch:
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download KML
+        run: |
+          mkdir -p data
+          curl -L "https://www.google.com/maps/d/kml?mid=1vvY_OIMBINPBK2FPFh230vuF-TLxbAQ&forcekml=1" \
+            -o "data/bear_map_shizukuishi.kml"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/bear_map_shizukuishi.kml
+          git diff --cached --quiet || git commit -m "chore: update bear map KML $(date +%Y-%m-%d)"
+          git push
