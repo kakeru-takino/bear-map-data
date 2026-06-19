@@ -1,0 +1,5248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>【公開用】盛岡市内のツキノワグマ出没情報</name>
+    <description><![CDATA[　クマ出没情報を紹介する盛岡市役所作成のマップです。オレンジは令和８年３月以降、黄色は令和７年４月から令和８年２月までの情報となります。<br>　通報内容に基づき作成しているため、ツキノワグマらしきものと疑われる目撃例や痕跡情報も含んでいますので、ご注意ください。<br>　なお、盛岡市公式ホームページに掲載している出没情報のうち、具体的な出没場所が分かるものや公開可能なもののみ掲載しているため、件数が一致しない場合があります。]]></description>
+    <Style id="icon-1759-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1759-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1759-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1759-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1759-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1759-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1759-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1759-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1759-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1759-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1759-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1759-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1759-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1759-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1759-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1759-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1759-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1759-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1759-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1759-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>R6クマ</name>
+      <Placemark>
+        <name>令和6年4月12日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 11時00分<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 上米内字中居<br>緯度: 39.74305429<br>経度: 141.2038333<br>説明: 高洞山登山口において、登山客５名が親子のクマを目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字中居</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74305429</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2038333</value>
+          </Data>
+          <Data name="説明">
+            <value>高洞山登山口において、登山客５名が親子のクマを目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2038333,39.74305429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月12日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 21時48分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 山岸六丁目<br>緯度: 39.73150867<br>経度: 141.1704787<br>説明: 通報者自宅付近のゴミ集積所裏に成獣１頭がおり、その後、山林方向に逃げて行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>21時48分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>山岸六丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73150867</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1704787</value>
+          </Data>
+          <Data name="説明">
+            <value>通報者自宅付近のゴミ集積所裏に成獣１頭がおり、その後、山林方向に逃げて行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1704787,39.73150867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月13日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 上米内字米内沢<br>緯度: 39.75444679<br>経度: 141.2012388<br>説明: 小学校南側にある体験農場にクマの足跡がある。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字米内沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75444679</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2012388</value>
+          </Data>
+          <Data name="説明">
+            <value>小学校南側にある体験農場にクマの足跡がある。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2012388,39.75444679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月14日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 20時00分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 浅岸字下大葛<br>緯度: 39.71195751<br>経度: 141.2264146<br>説明: ごみ集積所付近で成獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>20時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>浅岸字下大葛</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71195751</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2264146</value>
+          </Data>
+          <Data name="説明">
+            <value>ごみ集積所付近で成獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2264146,39.71195751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月15日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 18時00分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 浅岸字綱取<br>緯度: 39.71757229<br>経度: 141.2072472<br>説明: 道路上を走り去る幼獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>18時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>浅岸字綱取</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71757229</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2072472</value>
+          </Data>
+          <Data name="説明">
+            <value>道路上を走り去る幼獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2072472,39.71757229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月19日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 11時30分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 乙部２地割<br>緯度: 39.61767165<br>経度: 141.1949985<br>説明: 作業所（めだか園）敷地内にて幼獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>乙部２地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.61767165</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1949985</value>
+          </Data>
+          <Data name="説明">
+            <value>作業所（めだか園）敷地内にて幼獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1949985,39.61767165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月20日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 22時00分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 館向町<br>緯度: 39.71927108<br>経度: 141.1286022<br>説明: 大型犬より一回り大きいサイズのクマと思われる動物１頭が、北上川に移動するのを目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>22時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>館向町</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71927108</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1286022</value>
+          </Data>
+          <Data name="説明">
+            <value>大型犬より一回り大きいサイズのクマと思われる動物１頭が、北上川に移動するのを目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1286022,39.71927108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月22日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 8時00分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 猪去田面野木<br>緯度: 39.68486708<br>経度: 141.0617902<br>説明: クマと思われる足跡を確認。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>猪去田面野木</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68486708</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0617902</value>
+          </Data>
+          <Data name="説明">
+            <value>クマと思われる足跡を確認。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0617902,39.68486708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月25日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 20時00分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 高松二丁目<br>緯度: 39.72123876<br>経度: 141.138414<br>説明: 大型犬サイズのクマと思われる獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>20時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>高松二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.72123876</value>
+          </Data>
+          <Data name="経度">
+            <value>141.138414</value>
+          </Data>
+          <Data name="説明">
+            <value>大型犬サイズのクマと思われる獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.138414,39.72123876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月25日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 22時10分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 乙部29地割内<br>緯度: 39.60734968<br>経度: 141.2041667<br>説明: 体長１ｍ程度のクマが南の水田方向に移動するのを目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>22時10分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>乙部29地割内</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.60734968</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2041667</value>
+          </Data>
+          <Data name="説明">
+            <value>体長１ｍ程度のクマが南の水田方向に移動するのを目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2041667,39.60734968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月28日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 13時10分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 繋字尾入野<br>緯度: 39.69111202<br>経度: 141.024585<br>説明: 手づくり村職員専用駐車場付近で幼獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>13時10分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字尾入野</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69111202</value>
+          </Data>
+          <Data name="経度">
+            <value>141.024585</value>
+          </Data>
+          <Data name="説明">
+            <value>手づくり村職員専用駐車場付近で幼獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.024585,39.69111202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月28日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 14時30分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 繋字尾入野<br>緯度: 39.69111202<br>経度: 141.024585<br>説明: 手づくり村職員専用駐車場付近で幼獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>14時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字尾入野</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69111202</value>
+          </Data>
+          <Data name="経度">
+            <value>141.024585</value>
+          </Data>
+          <Data name="説明">
+            <value>手づくり村職員専用駐車場付近で幼獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.024585,39.69111202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年4月29日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 12時00分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 繋字尾入野<br>緯度: 39.69111202<br>経度: 141.024585<br>説明: 手づくり村職員専用駐車場付近で幼獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字尾入野</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69111202</value>
+          </Data>
+          <Data name="経度">
+            <value>141.024585</value>
+          </Data>
+          <Data name="説明">
+            <value>手づくり村職員専用駐車場付近で幼獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.024585,39.69111202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月1日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 5時10分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 東中野字片岡<br>緯度: 39.68927451<br>経度: 141.1740718<br>説明: 幼獣１頭が山から下りてきたと思われるのを目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>5時10分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東中野字片岡</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68927451</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1740718</value>
+          </Data>
+          <Data name="説明">
+            <value>幼獣１頭が山から下りてきたと思われるのを目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1740718,39.68927451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月1日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 未明<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 上米内字庄ケ畑<br>緯度: 39.76015991<br>経度: 141.1839398<br>説明: 飼料に執着している痕跡あり。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>未明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字庄ケ畑</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.76015991</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1839398</value>
+          </Data>
+          <Data name="説明">
+            <value>飼料に執着している痕跡あり。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1839398,39.76015991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月1日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 14時00分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 繋字尾入野<br>緯度: 39.69111202<br>経度: 141.024585<br>説明: 手づくり村職員専用駐車場付近で幼獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>14時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字尾入野</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69111202</value>
+          </Data>
+          <Data name="経度">
+            <value>141.024585</value>
+          </Data>
+          <Data name="説明">
+            <value>手づくり村職員専用駐車場付近で幼獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.024585,39.69111202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月2日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 7時30分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 東新庄二丁目<br>緯度: 39.70418583<br>経度: 141.1702146<br>説明: 国道４号線岩山入口付近にて中型のクマ１頭が岩山方向に移動するのを目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>7時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東新庄二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.70418583</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1702146</value>
+          </Data>
+          <Data name="説明">
+            <value>国道４号線岩山入口付近にて中型のクマ１頭が岩山方向に移動するのを目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1702146,39.70418583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月2日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 10時49分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 繋字尾入野<br>緯度: 39.69111202<br>経度: 141.024585<br>説明: 手づくり村職員専用駐車場付近で幼獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>10時49分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字尾入野</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69111202</value>
+          </Data>
+          <Data name="経度">
+            <value>141.024585</value>
+          </Data>
+          <Data name="説明">
+            <value>手づくり村職員専用駐車場付近で幼獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.024585,39.69111202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月2日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 13時30分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 砂子沢10地割<br>緯度: 39.60083033<br>経度: 141.3219188<br>説明: 通報者が田んぼで作業中、後方の山裾に中型程度のクマ１頭がいるのを目撃。ロケット花火で威嚇したら山に逃げて行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>13時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>砂子沢10地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.60083033</value>
+          </Data>
+          <Data name="経度">
+            <value>141.3219188</value>
+          </Data>
+          <Data name="説明">
+            <value>通報者が田んぼで作業中、後方の山裾に中型程度のクマ１頭がいるのを目撃。ロケット花火で威嚇したら山に逃げて行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.3219188,39.60083033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月6日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 12時00分<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 東安庭字舘<br>緯度: 39.68117604<br>経度: 141.1712112<br>説明: 農作業兼物置小屋に保管していたリンゴが食い荒らされていた。また小屋の内外にクマの糞らしき物が多数あった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東安庭字舘</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68117604</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1712112</value>
+          </Data>
+          <Data name="説明">
+            <value>農作業兼物置小屋に保管していたリンゴが食い荒らされていた。また小屋の内外にクマの糞らしき物が多数あった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1712112,39.68117604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月10日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 8時10分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 中野二丁目<br>緯度: 39.69192896<br>経度: 141.1661728<br>説明: 国道４号中野交差点付近で、西側から東側（中野小学校方向）に移動したクマを目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8時10分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>中野二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69192896</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1661728</value>
+          </Data>
+          <Data name="説明">
+            <value>国道４号中野交差点付近で、西側から東側（中野小学校方向）に移動したクマを目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1661728,39.69192896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月10日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 19時00分<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 繋字湯ノ舘<br>緯度: 39.67700791<br>経度: 141.0254065<br>説明: 温泉施設付近でクマを目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>19時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字湯ノ舘</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67700791</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0254065</value>
+          </Data>
+          <Data name="説明">
+            <value>温泉施設付近でクマを目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0254065,39.67700791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月11日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 16時00分<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> ２頭<br>発生地域: 乙部13地割<br>緯度: 39.60964532<br>経度: 141.2015162<br>説明: 乙部川の河原において成獣１頭、幼獣２頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ ２頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>乙部13地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.60964532</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2015162</value>
+          </Data>
+          <Data name="説明">
+            <value>乙部川の河原において成獣１頭、幼獣２頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2015162,39.60964532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月12日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 5時30分<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> ２頭<br>発生地域: 乙部13地割<br>緯度: 39.60964532<br>経度: 141.2015162<br>説明: リンゴ畑付近で成獣１頭、幼獣２頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>5時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ ２頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>乙部13地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.60964532</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2015162</value>
+          </Data>
+          <Data name="説明">
+            <value>リンゴ畑付近で成獣１頭、幼獣２頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2015162,39.60964532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月12日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 朝方<br>成獣/幼獣: 不明<br>頭数: 1頭<br>発生地域: 好摩字好摩沢<br>緯度: 39.900617<br>経度: 141.169622<br>説明: 起こした畝に丸い足跡がある。直径15センチくらい。クマではないか。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>朝方</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>好摩字好摩沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.900617</value>
+          </Data>
+          <Data name="経度">
+            <value>141.169622</value>
+          </Data>
+          <Data name="説明">
+            <value>起こした畝に丸い足跡がある。直径15センチくらい。クマではないか。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.169622,39.900617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月14日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 16時00分<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 川目16地割<br>緯度: 39.69204197<br>経度: 141.1824781<br>説明: 畑のマルチが破られ、足跡があった。堆肥が荒らされた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川目16地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69204197</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1824781</value>
+          </Data>
+          <Data name="説明">
+            <value>畑のマルチが破られ、足跡があった。堆肥が荒らされた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1824781,39.69204197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月14日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 10時30分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 黒川15地割<br>緯度: 39.62523987<br>経度: 141.1983456<br>説明: リンゴ畑内で中型のクマ１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>10時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>黒川15地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.62523987</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1983456</value>
+          </Data>
+          <Data name="説明">
+            <value>リンゴ畑内で中型のクマ１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1983456,39.62523987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月14日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 18時15分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 繋字湯ノ舘<br>緯度: 39.67254206<br>経度: 141.0240605<br>説明: 温泉施設の駐車場内でクマ１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>18時15分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字湯ノ舘</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67254206</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0240605</value>
+          </Data>
+          <Data name="説明">
+            <value>温泉施設の駐車場内でクマ１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0240605,39.67254206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月14日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 朝<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 川目19地割<br>緯度: 39.69590927<br>経度: 141.1788242<br>説明: 通報者が借りている畑の脇に米糠を置いていたが、２袋が荒らされ、クマの糞とマルチに足跡が残されていた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>朝</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川目19地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69590927</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1788242</value>
+          </Data>
+          <Data name="説明">
+            <value>通報者が借りている畑の脇に米糠を置いていたが、２袋が荒らされ、クマの糞とマルチに足跡が残されていた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1788242,39.69590927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月18日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 夕方<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 下米内字一本松<br>緯度: 39.72047761<br>経度: 141.1889233<br>説明: 親子のクマを敷地内で目撃した。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>夕方</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>下米内字一本松</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.72047761</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1889233</value>
+          </Data>
+          <Data name="説明">
+            <value>親子のクマを敷地内で目撃した。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1889233,39.72047761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月21日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 浅岸字貝田<br>緯度: 39.71096538<br>経度: 141.2154975<br>説明: 近隣の小屋の米ぬか袋がクマに荒らされている。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>浅岸字貝田</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71096538</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2154975</value>
+          </Data>
+          <Data name="説明">
+            <value>近隣の小屋の米ぬか袋がクマに荒らされている。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2154975,39.71096538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月21日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 未明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 川目第１地割<br>緯度: 39.66452145<br>経度: 141.2545365<br>説明: 住居に隣接する作業小屋等敷地内にクマの糞が多数あった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>未明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川目第１地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66452145</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2545365</value>
+          </Data>
+          <Data name="説明">
+            <value>住居に隣接する作業小屋等敷地内にクマの糞が多数あった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2545365,39.66452145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月21日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 8時<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 川又字宇登、釘の平<br>緯度: 39.790189<br>経度: 141.226016<br>説明: 成獣１頭を目撃。シカのくくり罠に掛かっており、捕獲許可を求めている最中に逃げ、山のほうへ行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8時</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川又字宇登、釘の平</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.790189</value>
+          </Data>
+          <Data name="経度">
+            <value>141.226016</value>
+          </Data>
+          <Data name="説明">
+            <value>成獣１頭を目撃。シカのくくり罠に掛かっており、捕獲許可を求めている最中に逃げ、山のほうへ行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.226016,39.790189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月22日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 21時00分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 乙部１地割<br>緯度: 39.62047323<br>経度: 141.2035209<br>説明: りんご畑内のリンゴ予冷庫小屋で作業中、クマを目撃。小屋外のりんご箱及び冷蔵庫のドレーン管を壊された。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>21時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>乙部１地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.62047323</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2035209</value>
+          </Data>
+          <Data name="説明">
+            <value>りんご畑内のリンゴ予冷庫小屋で作業中、クマを目撃。小屋外のりんご箱及び冷蔵庫のドレーン管を壊された。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2035209,39.62047323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月22日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 17時30分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 手代森６地割<br>緯度: 39.66419755<br>経度: 141.183895<br>説明: 道路上を横切るクマ１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>17時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>手代森６地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66419755</value>
+          </Data>
+          <Data name="経度">
+            <value>141.183895</value>
+          </Data>
+          <Data name="説明">
+            <value>道路上を横切るクマ１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.183895,39.66419755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月23日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 6時45分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 玉山字大平<br>緯度: 39.855468<br>経度: 141.269711<br>説明: 家の向かいの山林で成獣を目撃。山のほうへ逃げて行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>6時45分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>玉山字大平</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.855468</value>
+          </Data>
+          <Data name="経度">
+            <value>141.269711</value>
+          </Data>
+          <Data name="説明">
+            <value>家の向かいの山林で成獣を目撃。山のほうへ逃げて行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.269711,39.855468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月28日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 早朝<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 下米内二丁目<br>緯度: 39.7176062<br>経度: 141.182231<br>説明: 自宅横の養蜂場のミツバチ箱が倒され、巣枠１枚被害。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>早朝</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>下米内二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7176062</value>
+          </Data>
+          <Data name="経度">
+            <value>141.182231</value>
+          </Data>
+          <Data name="説明">
+            <value>自宅横の養蜂場のミツバチ箱が倒され、巣枠１枚被害。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.182231,39.7176062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月28日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 根田茂第５地割<br>緯度: 39.62847735<br>経度: 141.2956452<br>説明: 自宅横の養蜂場のミツバチ箱が１箱無くなっていた。付近にクマの足跡・手形があった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>根田茂第５地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.62847735</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2956452</value>
+          </Data>
+          <Data name="説明">
+            <value>自宅横の養蜂場のミツバチ箱が１箱無くなっていた。付近にクマの足跡・手形があった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2956452,39.62847735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月28日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 8時00分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 好摩字野中<br>緯度: 39.877155<br>経度: 141.17407<br>説明: クマの糞が路上にある。周辺にはクマの足跡もある。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>好摩字野中</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.877155</value>
+          </Data>
+          <Data name="経度">
+            <value>141.17407</value>
+          </Data>
+          <Data name="説明">
+            <value>クマの糞が路上にある。周辺にはクマの足跡もある。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.17407,39.877155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月29日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 12時30分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 根田茂第２地割<br>緯度: 39.62109255<br>経度: 141.3010085<br>説明: 根田茂川を挟んだ向かい側でクマ１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>根田茂第２地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.62109255</value>
+          </Data>
+          <Data name="経度">
+            <value>141.3010085</value>
+          </Data>
+          <Data name="説明">
+            <value>根田茂川を挟んだ向かい側でクマ１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.3010085,39.62109255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月30日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 16時00分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 根田茂第２地割<br>緯度: 39.62133053<br>経度: 141.3012213<br>説明: 自宅の車庫付近でクマ１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>根田茂第２地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.62133053</value>
+          </Data>
+          <Data name="経度">
+            <value>141.3012213</value>
+          </Data>
+          <Data name="説明">
+            <value>自宅の車庫付近でクマ１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.3012213,39.62133053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月30日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 手代森６地割<br>緯度: 39.66423313<br>経度: 141.1806814<br>説明: 蜜を除去した空箱、巣枠の置き場が荒らされた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>手代森６地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66423313</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1806814</value>
+          </Data>
+          <Data name="説明">
+            <value>蜜を除去した空箱、巣枠の置き場が荒らされた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1806814,39.66423313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月30日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 16時50分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 好摩字野中<br>緯度: 39.877155<br>経度: 141.17407<br>説明: クマの大きい足跡があるのを見つけた]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16時50分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>好摩字野中</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.877155</value>
+          </Data>
+          <Data name="経度">
+            <value>141.17407</value>
+          </Data>
+          <Data name="説明">
+            <value>クマの大きい足跡があるのを見つけた</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.17407,39.877155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年5月30日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 16時50分<br>成獣/幼獣: 成獣<br>頭数: 不明<br>発生地域: 玉山字中の又、大平<br>緯度: 39.817524<br>経度: 141.227153<br>説明: 駆除したニホンジカを埋めておいた場所が掘られ、個体が持ち去られている。周辺には引きずった跡や、クマの足跡、糞がある。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16時50分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>玉山字中の又、大平</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.817524</value>
+          </Data>
+          <Data name="経度">
+            <value>141.227153</value>
+          </Data>
+          <Data name="説明">
+            <value>駆除したニホンジカを埋めておいた場所が掘られ、個体が持ち去られている。周辺には引きずった跡や、クマの足跡、糞がある。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.227153,39.817524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月1日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 18時45分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 繋字北ノ浦<br>緯度: 39.69788419<br>経度: 141.0329823<br>説明: 成獣のクマらしきものを１頭目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>18時45分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字北ノ浦</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69788419</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0329823</value>
+          </Data>
+          <Data name="説明">
+            <value>成獣のクマらしきものを１頭目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0329823,39.69788419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月1日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 13時00分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 簗川第２地割<br>緯度: 39.671671<br>経度: 141.33433<br>説明: クマが栗の木に登ったり降りたりしている。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>13時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>簗川第２地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.671671</value>
+          </Data>
+          <Data name="経度">
+            <value>141.33433</value>
+          </Data>
+          <Data name="説明">
+            <value>クマが栗の木に登ったり降りたりしている。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.33433,39.671671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月3日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 11時00分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 好摩字新田<br>緯度: 39.897644<br>経度: 141.163591<br>説明: 農作業中に小さめのクマを見かけた。こちらに気づき、山のほうへ逃げていったようだ。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>好摩字新田</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.897644</value>
+          </Data>
+          <Data name="経度">
+            <value>141.163591</value>
+          </Data>
+          <Data name="説明">
+            <value>農作業中に小さめのクマを見かけた。こちらに気づき、山のほうへ逃げていったようだ。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.163591,39.897644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月5日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 8時30分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 繋字山根<br>緯度: 39.69483853<br>経度: 141.0257551<br>説明: クマ１頭（大きさ不明）が北の山林に移動するのを目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字山根</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69483853</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0257551</value>
+          </Data>
+          <Data name="説明">
+            <value>クマ１頭（大きさ不明）が北の山林に移動するのを目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0257551,39.69483853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月5日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 夕方<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 繋字尾入野<br>緯度: 39.68450346<br>経度: 141.0177148<br>説明: 御所湖広域公園 尾入野湿生植物園の駐車場付近の道路付近で幼獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>夕方</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字尾入野</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68450346</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0177148</value>
+          </Data>
+          <Data name="説明">
+            <value>御所湖広域公園 尾入野湿生植物園の駐車場付近の道路付近で幼獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0177148,39.68450346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月7日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 16時00分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 繋字堂ケ沢<br>緯度: 39.68383138<br>経度: 141.0190319<br>説明: 御所湖広域公園 さくら園付近で御所湖方面に走り去るクマ１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字堂ケ沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68383138</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0190319</value>
+          </Data>
+          <Data name="説明">
+            <value>御所湖広域公園 さくら園付近で御所湖方面に走り去るクマ１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0190319,39.68383138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月8日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 20時00分<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> ２頭<br>発生地域: 上米内字畑井野<br>緯度: 39.74186757<br>経度: 141.2258649<br>説明: 夜間に親子と思われるクマを見た。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>20時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ ２頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字畑井野</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74186757</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2258649</value>
+          </Data>
+          <Data name="説明">
+            <value>夜間に親子と思われるクマを見た。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2258649,39.74186757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月9日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 12時30分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 繋字除キ<br>緯度: 39.66642403<br>経度: 141.0006851<br>説明: つなぎ多目的運動場付近で成獣１頭を目撃。御所湖方面に移動した。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字除キ</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66642403</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0006851</value>
+          </Data>
+          <Data name="説明">
+            <value>つなぎ多目的運動場付近で成獣１頭を目撃。御所湖方面に移動した。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0006851,39.66642403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月10日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 早朝<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 川目第２地割<br>緯度: 39.66985397<br>経度: 141.2471081<br>説明: 道路上に幼獣のフンらしき痕跡あり。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>早朝</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川目第２地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66985397</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2471081</value>
+          </Data>
+          <Data name="説明">
+            <value>道路上に幼獣のフンらしき痕跡あり。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2471081,39.66985397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月10日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 上厨川川原<br>緯度: 39.70556486<br>経度: 141.094798<br>説明: 野球グラウンド周辺でクマの鳴き声を聞いた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上厨川川原</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.70556486</value>
+          </Data>
+          <Data name="経度">
+            <value>141.094798</value>
+          </Data>
+          <Data name="説明">
+            <value>野球グラウンド周辺でクマの鳴き声を聞いた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.094798,39.70556486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月16日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 早朝<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 乙部17地割<br>緯度: 39.60993294<br>経度: 141.2165099<br>説明: りんご畑内にクマ１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>早朝</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>乙部17地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.60993294</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2165099</value>
+          </Data>
+          <Data name="説明">
+            <value>りんご畑内にクマ１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2165099,39.60993294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月16日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 11時00分<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> ２頭<br>発生地域: 繋字湯ノ舘<br>緯度: 39.67854823<br>経度: 141.0239216<br>説明: クマ３頭（親１、子２）を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ ２頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字湯ノ舘</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67854823</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0239216</value>
+          </Data>
+          <Data name="説明">
+            <value>クマ３頭（親１、子２）を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0239216,39.67854823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月16日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 早朝<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 東緑が丘<br>緯度: 39.73251325<br>経度: 141.1503795<br>説明: 民家の近くで幼獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>早朝</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東緑が丘</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73251325</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1503795</value>
+          </Data>
+          <Data name="説明">
+            <value>民家の近くで幼獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1503795,39.73251325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月16日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 11時00分<br>成獣/幼獣: 成獣<br>頭数: 不明<br>発生地域: 玉山永井字永井沢<br>緯度: 39.9135<br>経度: 141.18915<br>説明: 畑の中に、クマの足跡があった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>玉山永井字永井沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.9135</value>
+          </Data>
+          <Data name="経度">
+            <value>141.18915</value>
+          </Data>
+          <Data name="説明">
+            <value>畑の中に、クマの足跡があった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.18915,39.9135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月18日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 0時00分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 茶畑一丁目<br>緯度: 39.69531734<br>経度: 141.1673503<br>説明: 茶畑の交差点で東側の墓のほうへ走り去るクマ１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>0時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>茶畑一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69531734</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1673503</value>
+          </Data>
+          <Data name="説明">
+            <value>茶畑の交差点で東側の墓のほうへ走り去るクマ１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1673503,39.69531734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月19日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 9時00分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 渋民字長渡<br>緯度: 39.845748<br>経度: 141.176815<br>説明: 畑の中に幼獣１頭を見つけた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>9時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>渋民字長渡</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.845748</value>
+          </Data>
+          <Data name="経度">
+            <value>141.176815</value>
+          </Data>
+          <Data name="説明">
+            <value>畑の中に幼獣１頭を見つけた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.176815,39.845748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月23日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 高松一丁目<br>緯度: 39.72484817<br>経度: 141.1424757<br>説明: 敷地内にクマの糞と思われるものがあった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>高松一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.72484817</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1424757</value>
+          </Data>
+          <Data name="説明">
+            <value>敷地内にクマの糞と思われるものがあった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1424757,39.72484817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月26日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 10時30分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 手代森９地割<br>緯度: 39.66084143<br>経度: 141.1841571<br>説明: 施設入居者の散歩途中、山沿いの道路でクマを目撃。直後に山中に逃げた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>10時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>手代森９地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66084143</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1841571</value>
+          </Data>
+          <Data name="説明">
+            <value>施設入居者の散歩途中、山沿いの道路でクマを目撃。直後に山中に逃げた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1841571,39.66084143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月30日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 7時55分<br>成獣/幼獣: 不明<br>頭数: 1頭<br>発生地域: 日戸中平<br>緯度: 39.80006715<br>経度: 141.2195635<br>説明: 常光寺の付近で60ｃｍくらいのクマを目撃。そのまま山の中へ逃げて行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>7時55分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>日戸中平</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.80006715</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2195635</value>
+          </Data>
+          <Data name="説明">
+            <value>常光寺の付近で60ｃｍくらいのクマを目撃。そのまま山の中へ逃げて行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2195635,39.80006715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月30日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 11時00分<br>成獣/幼獣: 幼獣<br>頭数: 1頭<br>発生地域: 渋民字長渡<br>緯度: 39.84482527<br>経度: 141.1738753<br>説明: 渋民保育園にほど近い、道の駅の工事をしているところの付近で幼獣を見かけた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>渋民字長渡</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.84482527</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1738753</value>
+          </Data>
+          <Data name="説明">
+            <value>渋民保育園にほど近い、道の駅の工事をしているところの付近で幼獣を見かけた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1738753,39.84482527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月日不詳</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 成獣<br>頭数: 不明<br>発生地域: 繋字山根<br>緯度: 39.6987702<br>経度: 141.0274812<br>説明: 自宅周辺の養蜂場でクマの痕跡を確認]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字山根</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.6987702</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0274812</value>
+          </Data>
+          <Data name="説明">
+            <value>自宅周辺の養蜂場でクマの痕跡を確認</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0274812,39.6987702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月日不詳</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 上飯岡７地割<br>緯度: 39.65973514<br>経度: 141.0850792<br>説明: 自宅周辺の畑でクマの足跡を確認]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上飯岡７地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.65973514</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0850792</value>
+          </Data>
+          <Data name="説明">
+            <value>自宅周辺の畑でクマの足跡を確認</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0850792,39.65973514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年6月日不詳</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 西見前４地割<br>緯度: 39.63444797<br>経度: 141.1570957<br>説明: 大きな木が倒された。クマだと思う。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>西見前４地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.63444797</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1570957</value>
+          </Data>
+          <Data name="説明">
+            <value>大きな木が倒された。クマだと思う。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1570957,39.63444797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月1日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 20時頃<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 大ケ生17地割<br>緯度: 39.6012562<br>経度: 141.2512671<br>説明: 個人でホタルを見に行った際、付近でクマ１頭を目撃した。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>20時頃</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>大ケ生17地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.6012562</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2512671</value>
+          </Data>
+          <Data name="説明">
+            <value>個人でホタルを見に行った際、付近でクマ１頭を目撃した。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2512671,39.6012562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月2日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 6時50分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 好摩字好摩沢<br>緯度: 39.91373862<br>経度: 141.1891067<br>説明: 施設付近でクマを発見。警察が巡回するも発見できず、付近へ警戒するようアナウンスした。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>6時50分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>好摩字好摩沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.91373862</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1891067</value>
+          </Data>
+          <Data name="説明">
+            <value>施設付近でクマを発見。警察が巡回するも発見できず、付近へ警戒するようアナウンスした。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1891067,39.91373862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月3日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 7時30分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 三ツ割字鉢ノ皮<br>緯度: 39.74593623<br>経度: 141.15881<br>説明: 登校中の小学生が、小鹿公園のタケノコ広場内でクマらしきものが山林へ走り去るのを目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>7時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>三ツ割字鉢ノ皮</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74593623</value>
+          </Data>
+          <Data name="経度">
+            <value>141.15881</value>
+          </Data>
+          <Data name="説明">
+            <value>登校中の小学生が、小鹿公園のタケノコ広場内でクマらしきものが山林へ走り去るのを目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.15881,39.74593623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月3日</name>
+        <description><![CDATA[出没区分: 03 農作物被害<br>出没時間: 14時00分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 玉山永井字荒屋<br>緯度: 39.905069<br>経度: 141.194054<br>説明: 畑の中にクマの足跡がある。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>03 農作物被害</value>
+          </Data>
+          <Data name="出没時間">
+            <value>14時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>玉山永井字荒屋</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.905069</value>
+          </Data>
+          <Data name="経度">
+            <value>141.194054</value>
+          </Data>
+          <Data name="説明">
+            <value>畑の中にクマの足跡がある。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.194054,39.905069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月4日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 13時00分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 上米内字名乗沢<br>緯度: 39.73907898<br>経度: 141.1799426<br>説明: 施設の駐車場付近で山林へ走るクマ１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>13時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字名乗沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73907898</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1799426</value>
+          </Data>
+          <Data name="説明">
+            <value>施設の駐車場付近で山林へ走るクマ１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1799426,39.73907898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月4日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 8時30分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 松内字古川<br>緯度: 39.874385<br>経度: 141.157224<br>説明: 裏の家庭菜園にクマの足跡がある。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>松内字古川</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.874385</value>
+          </Data>
+          <Data name="経度">
+            <value>141.157224</value>
+          </Data>
+          <Data name="説明">
+            <value>裏の家庭菜園にクマの足跡がある。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.157224,39.874385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月5日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 9時00分<br>成獣/幼獣: 幼獣<br>頭数: 1頭<br>発生地域: 渋民字寺沢、岩の沢<br>緯度: 39.852597<br>経度: 141.190405<br>説明: 幹線沿いに歩いて行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>9時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>渋民字寺沢、岩の沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.852597</value>
+          </Data>
+          <Data name="経度">
+            <value>141.190405</value>
+          </Data>
+          <Data name="説明">
+            <value>幹線沿いに歩いて行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.190405,39.852597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月6日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 20時30分<br>成獣/幼獣: 幼獣<br>頭数: 1頭<br>発生地域: 玉山馬場平<br>緯度: 39.885848<br>経度: 141.193455<br>説明: 北方500ｍ付近を歩いていた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>20時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>玉山馬場平</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.885848</value>
+          </Data>
+          <Data name="経度">
+            <value>141.193455</value>
+          </Data>
+          <Data name="説明">
+            <value>北方500ｍ付近を歩いていた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.193455,39.885848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月11日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 13時50分<br>成獣/幼獣: 幼獣<br>頭数: 1頭<br>発生地域: 渋民字長渡<br>緯度: 39.837267<br>経度: 141.17374<br>説明: 住民が目撃したと聞いた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>13時50分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>渋民字長渡</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.837267</value>
+          </Data>
+          <Data name="経度">
+            <value>141.17374</value>
+          </Data>
+          <Data name="説明">
+            <value>住民が目撃したと聞いた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.17374,39.837267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月12日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 8時10分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 北松園四丁目<br>緯度: 39.76499653<br>経度: 141.1732469<br>説明: 太陽通りと岩手山通りの交差点付近で小鳥沢方面（北側）に移動するクマ（カモシカかもしれない）を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8時10分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>北松園四丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.76499653</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1732469</value>
+          </Data>
+          <Data name="説明">
+            <value>太陽通りと岩手山通りの交差点付近で小鳥沢方面（北側）に移動するクマ（カモシカかもしれない）を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1732469,39.76499653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月13日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 16時51分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 小鳥沢二丁目<br>緯度: 39.76714267<br>経度: 141.1674099<br>説明: 幼獣が住宅地方向に移動するのを目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16時51分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>小鳥沢二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.76714267</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1674099</value>
+          </Data>
+          <Data name="説明">
+            <value>幼獣が住宅地方向に移動するのを目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1674099,39.76714267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月13日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 浅岸字二ツ森<br>緯度: 39.71733208<br>経度: 141.1986293<br>説明: 蜜蜂の空箱が荒らされた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>浅岸字二ツ森</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71733208</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1986293</value>
+          </Data>
+          <Data name="説明">
+            <value>蜜蜂の空箱が荒らされた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1986293,39.71733208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月14日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 17時25分<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 川目６地割<br>緯度: 39.67346724<br>経度: 141.2132125<br>説明: 自宅敷地内を通過し、北の山林方向に姿を消した。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>17時25分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川目６地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67346724</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2132125</value>
+          </Data>
+          <Data name="説明">
+            <value>自宅敷地内を通過し、北の山林方向に姿を消した。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2132125,39.67346724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月14日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 手代森12地割<br>緯度: 39.6552716<br>経度: 141.1902551<br>説明: 朽木をひっくり返して蟻や蜂を食べた痕跡があった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>手代森12地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.6552716</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1902551</value>
+          </Data>
+          <Data name="説明">
+            <value>朽木をひっくり返して蟻や蜂を食べた痕跡があった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1902551,39.6552716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月15日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 川目第８地割<br>緯度: 39.67083509<br>経度: 141.2077574<br>説明: クマ出没らしき痕跡あり（クワの実を食べた跡）]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川目第８地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67083509</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2077574</value>
+          </Data>
+          <Data name="説明">
+            <value>クマ出没らしき痕跡あり（クワの実を食べた跡）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2077574,39.67083509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月16日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 16時50分<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 上堂四丁目<br>緯度: 39.73320689<br>経度: 141.1260436<br>説明: 通行人が親子のクマ２頭を目撃した。北側の森に逃げて行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16時50分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上堂四丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73320689</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1260436</value>
+          </Data>
+          <Data name="説明">
+            <value>通行人が親子のクマ２頭を目撃した。北側の森に逃げて行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1260436,39.73320689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月16日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 早朝<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 簗川第３地割<br>緯度: 39.66191319<br>経度: 141.318955<br>説明: 自宅前で成獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>早朝</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>簗川第３地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66191319</value>
+          </Data>
+          <Data name="経度">
+            <value>141.318955</value>
+          </Data>
+          <Data name="説明">
+            <value>自宅前で成獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.318955,39.66191319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月17日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 7時00分<br>成獣/幼獣: 成獣<br>頭数: 3頭<br>発生地域: 日戸字鷹高<br>緯度: 39.794017<br>経度: 141.193479<br>説明: 成獣１頭、幼獣２頭を藁峠付近で目撃。東から西へ横断し、山に入っていった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>7時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>3頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>日戸字鷹高</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.794017</value>
+          </Data>
+          <Data name="経度">
+            <value>141.193479</value>
+          </Data>
+          <Data name="説明">
+            <value>成獣１頭、幼獣２頭を藁峠付近で目撃。東から西へ横断し、山に入っていった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.193479,39.794017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月18日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 8時30分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 繋字山根<br>緯度: 39.69708015<br>経度: 141.0247249<br>説明: 職員が通勤中にクマ１頭を目撃した。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字山根</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69708015</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0247249</value>
+          </Data>
+          <Data name="説明">
+            <value>職員が通勤中にクマ１頭を目撃した。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0247249,39.69708015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月18日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 17時15分<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> ２頭<br>発生地域: 東松園二丁目<br>緯度: 39.75503552<br>経度: 141.1648796<br>説明: 松園中央公園で成獣１頭、幼獣２頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>17時15分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ ２頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東松園二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75503552</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1648796</value>
+          </Data>
+          <Data name="説明">
+            <value>松園中央公園で成獣１頭、幼獣２頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1648796,39.75503552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月24日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 19時00分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 桜台二丁目<br>緯度: 39.75120904<br>経度: 141.1988234<br>説明: 桜台運動公園付近で、東側の山地へ走り去る成獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>19時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>桜台二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75120904</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1988234</value>
+          </Data>
+          <Data name="説明">
+            <value>桜台運動公園付近で、東側の山地へ走り去る成獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1988234,39.75120904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月24日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 20時20分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 高松四丁目<br>緯度: 39.72787858<br>経度: 141.1338118<br>説明: 成獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>20時20分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>高松四丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.72787858</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1338118</value>
+          </Data>
+          <Data name="説明">
+            <value>成獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1338118,39.72787858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月25日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 6時00分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 桜台二丁目<br>緯度: 39.75160075<br>経度: 141.1967996<br>説明: 北側の山地へ走り去る成獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>6時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>桜台二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75160075</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1967996</value>
+          </Data>
+          <Data name="説明">
+            <value>北側の山地へ走り去る成獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1967996,39.75160075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月27日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 14時23分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 繋字萪内沢<br>緯度: 39.67393945<br>経度: 141.0153702<br>説明: 盛岡西消防署繋出張所向かいにクマがいるとのこと。西に向かった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>14時23分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字萪内沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67393945</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0153702</value>
+          </Data>
+          <Data name="説明">
+            <value>盛岡西消防署繋出張所向かいにクマがいるとのこと。西に向かった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0153702,39.67393945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月29日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 大ケ生14地割<br>緯度: 39.61717391<br>経度: 141.260198<br>説明: 農地付近の梅の木にクマが登っていた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>大ケ生14地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.61717391</value>
+          </Data>
+          <Data name="経度">
+            <value>141.260198</value>
+          </Data>
+          <Data name="説明">
+            <value>農地付近の梅の木にクマが登っていた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.260198,39.61717391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月31日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 12時00分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 乙部８地割<br>緯度: 39.61494633<br>経度: 141.2017036<br>説明: りんご畑内でクマの痕跡を確認。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>乙部８地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.61494633</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2017036</value>
+          </Data>
+          <Data name="説明">
+            <value>りんご畑内でクマの痕跡を確認。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2017036,39.61494633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月31日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 18時15分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 上米内字松木平<br>緯度: 39.74778026<br>経度: 141.1822295<br>説明: 松園寺周辺で森林へ走り去る幼獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>18時15分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字松木平</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74778026</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1822295</value>
+          </Data>
+          <Data name="説明">
+            <value>松園寺周辺で森林へ走り去る幼獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1822295,39.74778026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年7月31日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 12時00分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 薮川字外山<br>緯度: 39.8278685<br>経度: 141.3639107<br>説明: 岩洞湖レストハウスから湖の方向に歩いて行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>薮川字外山</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.8278685</value>
+          </Data>
+          <Data name="経度">
+            <value>141.3639107</value>
+          </Data>
+          <Data name="説明">
+            <value>岩洞湖レストハウスから湖の方向に歩いて行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.3639107,39.8278685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月1日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 18時頃<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 大ケ生3地割<br>緯度: 39.62337989<br>経度: 141.2611585<br>説明: リンゴ畑内で成獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>18時頃</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>大ケ生3地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.62337989</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2611585</value>
+          </Data>
+          <Data name="説明">
+            <value>リンゴ畑内で成獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2611585,39.62337989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月2日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 11時30分<br>成獣/幼獣: 幼獣<br>頭数: 1頭<br>発生地域: 渋民字越戸<br>緯度: 39.847198<br>経度: 141.180756<br>説明: 道路を横断し、西側に入っていく子熊１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>渋民字越戸</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.847198</value>
+          </Data>
+          <Data name="経度">
+            <value>141.180756</value>
+          </Data>
+          <Data name="説明">
+            <value>道路を横断し、西側に入っていく子熊１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.180756,39.847198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月6日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 22時00分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 愛宕町２番<br>緯度: 39.70755513<br>経度: 141.1578628<br>説明: 中津川方面へ走り去る成獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>22時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>愛宕町２番</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.70755513</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1578628</value>
+          </Data>
+          <Data name="説明">
+            <value>中津川方面へ走り去る成獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1578628,39.70755513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月7日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 7時44分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 山岸字大平地内<br>緯度: 39.74207582<br>経度: 141.1799482<br>説明: 体長１ｍ程度のクマ1頭が自宅裏の畑にいるのを目撃。移動方向は不明。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>7時44分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>山岸字大平地内</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74207582</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1799482</value>
+          </Data>
+          <Data name="説明">
+            <value>体長１ｍ程度のクマ1頭が自宅裏の畑にいるのを目撃。移動方向は不明。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1799482,39.74207582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月7日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 簗川第２地割<br>緯度: 39.67277875<br>経度: 141.3279206<br>説明: サイレージ置場でクマの痕跡を確認]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>簗川第２地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67277875</value>
+          </Data>
+          <Data name="経度">
+            <value>141.3279206</value>
+          </Data>
+          <Data name="説明">
+            <value>サイレージ置場でクマの痕跡を確認</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.3279206,39.67277875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月8日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 11時15分<br>成獣/幼獣: 成獣<br>頭数: 3頭<br>発生地域: 薮川外山<br>緯度: 39.783993<br>経度: 141.336017<br>説明: 蛇塚入口からまほら岩手側へ歩いていたと聞いた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時15分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>3頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>薮川外山</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.783993</value>
+          </Data>
+          <Data name="経度">
+            <value>141.336017</value>
+          </Data>
+          <Data name="説明">
+            <value>蛇塚入口からまほら岩手側へ歩いていたと聞いた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.336017,39.783993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月9日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 13時00分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 上米内字松木平<br>緯度: 39.74698773<br>経度: 141.180392<br>説明: 松園寺方向へ走り去る幼獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>13時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字松木平</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74698773</value>
+          </Data>
+          <Data name="経度">
+            <value>141.180392</value>
+          </Data>
+          <Data name="説明">
+            <value>松園寺方向へ走り去る幼獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.180392,39.74698773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月10日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 5時15分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 下米内字佐倉<br>緯度: 39.72843505<br>経度: 141.1862793<br>説明: 砕石場周辺で北方向へ走り去る成獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>5時15分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>下米内字佐倉</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.72843505</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1862793</value>
+          </Data>
+          <Data name="説明">
+            <value>砕石場周辺で北方向へ走り去る成獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1862793,39.72843505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月10日</name>
+        <description><![CDATA[出没区分: 03 農作物被害<br>出没時間: 不明<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 乙部18地割<br>緯度: 39.61236219<br>経度: 141.2232916<br>説明: プラム３本の枝折り及び食害]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>03 農作物被害</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>乙部18地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.61236219</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2232916</value>
+          </Data>
+          <Data name="説明">
+            <value>プラム３本の枝折り及び食害</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2232916,39.61236219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月13日</name>
+        <description><![CDATA[出没区分: 03 農作物被害<br>出没時間: 不明<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 大ケ生18地割<br>緯度: 39.60614864<br>経度: 141.2399856<br>説明: りんごの枝折り及び食害10本]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>03 農作物被害</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>大ケ生18地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.60614864</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2399856</value>
+          </Data>
+          <Data name="説明">
+            <value>りんごの枝折り及び食害10本</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2399856,39.60614864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月20日</name>
+        <description><![CDATA[出没区分: 03 農作物被害<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 上飯岡９地割<br>緯度: 39.665459<br>経度: 141.0885534<br>説明: ナシの枝折り及び食害１本]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>03 農作物被害</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上飯岡９地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.665459</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0885534</value>
+          </Data>
+          <Data name="説明">
+            <value>ナシの枝折り及び食害１本</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0885534,39.665459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月21日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 早朝<br>成獣/幼獣: 幼獣<br>頭数: 不明<br>発生地域: 簗川第５地割<br>緯度: 39.6659372<br>経度: 141.3007247<br>説明: 敷地内のビニールハウス脇にクマの糞があった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>早朝</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>簗川第５地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.6659372</value>
+          </Data>
+          <Data name="経度">
+            <value>141.3007247</value>
+          </Data>
+          <Data name="説明">
+            <value>敷地内のビニールハウス脇にクマの糞があった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.3007247,39.6659372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月23日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 大ケ生18地割<br>緯度: 39.60679958<br>経度: 141.2402512<br>説明: りんご畑でクマの痕跡を確認]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>大ケ生18地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.60679958</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2402512</value>
+          </Data>
+          <Data name="説明">
+            <value>りんご畑でクマの痕跡を確認</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2402512,39.60679958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月25日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 14時50分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 繋字尾入野<br>緯度: 39.68450346<br>経度: 141.0177148<br>説明: 御所湖広域公園 尾入野湿生植物園の駐車場からの階段付近で成獣１頭を目撃した。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>14時50分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字尾入野</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68450346</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0177148</value>
+          </Data>
+          <Data name="説明">
+            <value>御所湖広域公園 尾入野湿生植物園の駐車場からの階段付近で成獣１頭を目撃した。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0177148,39.68450346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月26日</name>
+        <description><![CDATA[出没区分: 03 農作物被害<br>出没時間: 13時00分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 上米内字白石<br>緯度: 39.75522896<br>経度: 141.2202306<br>説明: デントコーンの食害]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>03 農作物被害</value>
+          </Data>
+          <Data name="出没時間">
+            <value>13時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字白石</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75522896</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2202306</value>
+          </Data>
+          <Data name="説明">
+            <value>デントコーンの食害</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2202306,39.75522896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月26日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 17時00分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 上米内字松木平<br>緯度: 39.7450248<br>経度: 141.1918532<br>説明: 松木平方面から米内中学校へ向かう道路で幼獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>17時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字松木平</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7450248</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1918532</value>
+          </Data>
+          <Data name="説明">
+            <value>松木平方面から米内中学校へ向かう道路で幼獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1918532,39.7450248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月26日</name>
+        <description><![CDATA[出没区分: 03 農作物被害<br>出没時間: 17時00分<br>成獣/幼獣: 成獣<br>頭数: 不明<br>発生地域: 川又字釘の平<br>緯度: 39.789813<br>経度: 141.230942<br>説明: デントコーンを倒され、食害されている。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>03 農作物被害</value>
+          </Data>
+          <Data name="出没時間">
+            <value>17時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川又字釘の平</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.789813</value>
+          </Data>
+          <Data name="経度">
+            <value>141.230942</value>
+          </Data>
+          <Data name="説明">
+            <value>デントコーンを倒され、食害されている。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.230942,39.789813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月28日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 15時25分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 上米内字砂子沢<br>緯度: 39.76972413<br>経度: 141.1842178<br>説明: 県道16号を森林（東側）方向に走り去る成獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>15時25分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字砂子沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.76972413</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1842178</value>
+          </Data>
+          <Data name="説明">
+            <value>県道16号を森林（東側）方向に走り去る成獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1842178,39.76972413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月29日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 不明<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 浅岸字赤重<br>緯度: 39.74294757<br>経度: 141.238772<br>説明: 住宅付近の農地で成獣１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>浅岸字赤重</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74294757</value>
+          </Data>
+          <Data name="経度">
+            <value>141.238772</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅付近の農地で成獣１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.238772,39.74294757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月29日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 11時15分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 薮川外山<br>緯度: 39.82545278<br>経度: 141.3673567<br>説明: 国道脇にクマがいた。その後、山へ逃げて行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時15分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>薮川外山</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.82545278</value>
+          </Data>
+          <Data name="経度">
+            <value>141.3673567</value>
+          </Data>
+          <Data name="説明">
+            <value>国道脇にクマがいた。その後、山へ逃げて行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.3673567,39.82545278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年8月30日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 8:45<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 玉山馬場芦名沢<br>緯度: 39.87572889<br>経度: 141.2044765<br>説明: 畑にクマの足跡があった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8:45</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>玉山馬場芦名沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.87572889</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2044765</value>
+          </Data>
+          <Data name="説明">
+            <value>畑にクマの足跡があった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2044765,39.87572889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月1日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 新庄字小貝沢<br>緯度: 39.70701739<br>経度: 141.286495<br>説明: サイレージ置場でサイレージが破られていた。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>新庄字小貝沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.70701739</value>
+          </Data>
+          <Data name="経度">
+            <value>141.286495</value>
+          </Data>
+          <Data name="説明">
+            <value>サイレージ置場でサイレージが破られていた。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.286495,39.70701739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月2日</name>
+        <description><![CDATA[出没区分: 03 農作物被害<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 羽場19地割<br>緯度: 39.64683666<br>経度: 141.0812948<br>説明: りんごの食害]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>03 農作物被害</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>羽場19地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.64683666</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0812948</value>
+          </Data>
+          <Data name="説明">
+            <value>りんごの食害</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0812948,39.64683666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月2日</name>
+        <description><![CDATA[出没区分: 03 農作物被害<br>出没時間: 16時00分<br>成獣/幼獣: 成獣<br>頭数: 不明<br>発生地域: 渋民字岩の沢<br>緯度: 39.846648<br>経度: 141.181877<br>説明: デントコーンを倒され、食害されている。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>03 農作物被害</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>渋民字岩の沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.846648</value>
+          </Data>
+          <Data name="経度">
+            <value>141.181877</value>
+          </Data>
+          <Data name="説明">
+            <value>デントコーンを倒され、食害されている。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.181877,39.846648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月3日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 11時00分<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> ２頭<br>発生地域: 浅岸字二ツ森<br>緯度: 39.71270471<br>経度: 141.2033466<br>説明: 綱取ダム付近の道路（上米内湯沢線）で、二ツ森方向へ走り去る成獣１頭幼獣２頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ ２頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>浅岸字二ツ森</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71270471</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2033466</value>
+          </Data>
+          <Data name="説明">
+            <value>綱取ダム付近の道路（上米内湯沢線）で、二ツ森方向へ走り去る成獣１頭幼獣２頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2033466,39.71270471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月7日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 16時30分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 東松園３丁目<br>緯度: 39.75834041<br>経度: 141.1692851<br>説明: 小鳥沢公園で、小学生がクマらしきもの１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東松園３丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75834041</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1692851</value>
+          </Data>
+          <Data name="説明">
+            <value>小鳥沢公園で、小学生がクマらしきもの１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1692851,39.75834041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月17日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 22時30分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 月が丘3丁目<br>緯度: 39.73863261<br>経度: 141.1063066<br>説明: 月が丘三丁目幼児公園付近でクマ１頭を目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>22時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>月が丘3丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73863261</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1063066</value>
+          </Data>
+          <Data name="説明">
+            <value>月が丘三丁目幼児公園付近でクマ１頭を目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1063066,39.73863261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月18日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 8時20分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 月が丘3丁目<br>緯度: 39.7403395<br>経度: 141.1018997<br>説明: 月が丘三丁目でクマを目撃。その後、諸葛川を経由して滝沢市室小路の山林へ移動した。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8時20分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>月が丘3丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7403395</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1018997</value>
+          </Data>
+          <Data name="説明">
+            <value>月が丘三丁目でクマを目撃。その後、諸葛川を経由して滝沢市室小路の山林へ移動した。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1018997,39.7403395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月18日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 13時20分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 厨川二丁目<br>緯度: 39.73926825<br>経度: 141.1316099<br>説明: 体長１ｍ程度のクマ１頭が、三馬橋付近の道路から川に向かって移動するのを目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>13時20分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>厨川二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73926825</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1316099</value>
+          </Data>
+          <Data name="説明">
+            <value>体長１ｍ程度のクマ１頭が、三馬橋付近の道路から川に向かって移動するのを目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1316099,39.73926825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月19日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 10時57分<br>成獣/幼獣: 幼獣<br>頭数: 1頭<br>発生地域: 川又字赤坂<br>緯度: 39.78676242<br>経度: 141.1695771<br>説明: 道路脇にクマがいた。その後、川方向へ逃げて行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>10時57分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川又字赤坂</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.78676242</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1695771</value>
+          </Data>
+          <Data name="説明">
+            <value>道路脇にクマがいた。その後、川方向へ逃げて行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1695771,39.78676242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月23日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 夕方<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 手代森９地割<br>緯度: 39.65975128<br>経度: 141.1840592<br>説明: 自宅敷地内にある栗の木の脇の畑にクマらしき足跡あり。食害等なし。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>夕方</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>手代森９地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.65975128</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1840592</value>
+          </Data>
+          <Data name="説明">
+            <value>自宅敷地内にある栗の木の脇の畑にクマらしき足跡あり。食害等なし。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1840592,39.65975128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年9月28日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 12時00分<br>成獣/幼獣: 成獣（幼獣）<br>頭数: 3頭<br>発生地域: 猪去田面野木<br>緯度: 39.68959966<br>経度: 141.048874<br>説明: 親子クマ3頭が南の山の方へ行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣（幼獣）</value>
+          </Data>
+          <Data name="頭数">
+            <value>3頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>猪去田面野木</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68959966</value>
+          </Data>
+          <Data name="経度">
+            <value>141.048874</value>
+          </Data>
+          <Data name="説明">
+            <value>親子クマ3頭が南の山の方へ行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.048874,39.68959966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年10月2日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 早朝<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 猪去字早俄上<br>緯度: 39.68851012<br>経度: 141.0593887<br>説明: 圃場（大豆）で成獣の足跡を確認]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>早朝</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>猪去字早俄上</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68851012</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0593887</value>
+          </Data>
+          <Data name="説明">
+            <value>圃場（大豆）で成獣の足跡を確認</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0593887,39.68851012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年10月13日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 9時05分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 繋字除キ<br>緯度: 39.66826784<br>経度: 141.0018152<br>説明: 御所湖広域公園わんぱく広場の湖畔で成獣1頭を目撃。音楽を鳴らして追い払いをしたら、やぶの西側に移動していった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>9時05分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字除キ</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66826784</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0018152</value>
+          </Data>
+          <Data name="説明">
+            <value>御所湖広域公園わんぱく広場の湖畔で成獣1頭を目撃。音楽を鳴らして追い払いをしたら、やぶの西側に移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0018152,39.66826784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年10月30日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 0時39分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 浅岸一丁目<br>緯度: 39.7119301<br>経度: 141.1739425<br>説明: 浅岸大塚公園付近で幼獣１頭が住宅方向に移動するのを目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>0時39分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>浅岸一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7119301</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1739425</value>
+          </Data>
+          <Data name="説明">
+            <value>浅岸大塚公園付近で幼獣１頭が住宅方向に移動するのを目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1739425,39.7119301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年10月30日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 3時00分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 東緑が丘11番<br>緯度: 39.7327796<br>経度: 141.1492487<br>説明: 東緑が丘の住宅地内で北方向に走り去る成獣１頭を目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>3時00分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東緑が丘11番</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7327796</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1492487</value>
+          </Data>
+          <Data name="説明">
+            <value>東緑が丘の住宅地内で北方向に走り去る成獣１頭を目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1492487,39.7327796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年11月1日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 0時30分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 中野二丁目<br>緯度: 39.69055609<br>経度: 141.1683344<br>説明: アパート付近で、幼獣１頭を目撃。その後警察が現地付近を巡回するも、個体の発見に至らず。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>0時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>中野二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69055609</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1683344</value>
+          </Data>
+          <Data name="説明">
+            <value>アパート付近で、幼獣１頭を目撃。その後警察が現地付近を巡回するも、個体の発見に至らず。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1683344,39.69055609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年11月4日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 11時30分<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 繋字北久保<br>緯度: 39.69192905<br>経度: 141.041912<br>説明: 通行人が、親幼獣を目撃。その後警察が現地付近を巡回するも、個体の発見に至らず。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字北久保</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69192905</value>
+          </Data>
+          <Data name="経度">
+            <value>141.041912</value>
+          </Data>
+          <Data name="説明">
+            <value>通行人が、親幼獣を目撃。その後警察が現地付近を巡回するも、個体の発見に至らず。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.041912,39.69192905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年11月24日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 10時30分<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 本宮蛇屋敷<br>緯度: 39.69401918<br>経度: 141.1278554<br>説明: 中央公園内で、クマのフンらしきものを発見した。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>10時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>本宮蛇屋敷</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69401918</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1278554</value>
+          </Data>
+          <Data name="説明">
+            <value>中央公園内で、クマのフンらしきものを発見した。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1278554,39.69401918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年11月28日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 22時35分<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 西見前16地割<br>緯度: 39.64510989<br>経度: 141.1608337<br>説明: 西に走り去るクマを目撃]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>22時35分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>西見前16地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.64510989</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1608337</value>
+          </Data>
+          <Data name="説明">
+            <value>西に走り去るクマを目撃</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1608337,39.64510989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年11月29日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 3時30分<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 西見前18地割<br>緯度: 39.6495358<br>経度: 141.1586673<br>説明: クマに住宅の網戸１枚を破壊された。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>3時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>西見前18地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.6495358</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1586673</value>
+          </Data>
+          <Data name="説明">
+            <value>クマに住宅の網戸１枚を破壊された。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1586673,39.6495358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年11月29日</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>出没時間: 9時30分<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 仙北２丁目<br>緯度: 39.68556127<br>経度: 141.150042<br>説明: 敷地内にクマの糞と思われるものがあった。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="出没時間">
+            <value>9時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>仙北２丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68556127</value>
+          </Data>
+          <Data name="経度">
+            <value>141.150042</value>
+          </Data>
+          <Data name="説明">
+            <value>敷地内にクマの糞と思われるものがあった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.150042,39.68556127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年11月29日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 20時20分<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 西見前18地割<br>緯度: 39.64845932<br>経度: 141.1626474<br>説明: 見前小学校北側で幼獣１頭目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>20時20分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>西見前18地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.64845932</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1626474</value>
+          </Data>
+          <Data name="説明">
+            <value>見前小学校北側で幼獣１頭目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1626474,39.64845932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年12月2日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 7時45分<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 箱清水一丁目<br>緯度: 39.73487798<br>経度: 141.1312371<br>説明: 付近でサイズ不明熊１頭の目撃。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>7時45分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>箱清水一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73487798</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1312371</value>
+          </Data>
+          <Data name="説明">
+            <value>付近でサイズ不明熊１頭の目撃。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1312371,39.73487798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年12月8日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 6時10分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 下田字陣場<br>緯度: 39.836953<br>経度: 141.156701<br>説明: 陣場踏切の周辺でクマ１頭を目撃。線路沿いに好摩方面へ歩いて行った。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>6時10分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>下田字陣場</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.836953</value>
+          </Data>
+          <Data name="経度">
+            <value>141.156701</value>
+          </Data>
+          <Data name="説明">
+            <value>陣場踏切の周辺でクマ１頭を目撃。線路沿いに好摩方面へ歩いて行った。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.156701,39.836953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和6年12月18日</name>
+        <description><![CDATA[出没区分: 01 目撃<br>出没時間: 6時30分<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 好摩字夏間木<br>緯度: 39.875804<br>経度: 141.165391<br>説明: 巻堀中学校東側の山（夜更森緑地周辺）で成獣１頭が歩いているのを見た。どちらに行ったかはわからない。]]></description>
+        <styleUrl>#icon-1759-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="出没時間">
+            <value>6時30分</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>好摩字夏間木</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.875804</value>
+          </Data>
+          <Data name="経度">
+            <value>141.165391</value>
+          </Data>
+          <Data name="説明">
+            <value>巻堀中学校東側の山（夜更森緑地周辺）で成獣１頭が歩いているのを見た。どちらに行ったかはわからない。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.165391,39.875804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
