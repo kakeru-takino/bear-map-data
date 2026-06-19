@@ -291,6 +291,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>6月18日 15時15分</name>
+        <description><![CDATA[付近での目撃情報<br>幼獣1頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9844657,39.7470673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6月19日 5時50分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣1頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9638133,39.7439375,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Ｒ8クマ出没情報（Ｒ8.4～5月）</name>
