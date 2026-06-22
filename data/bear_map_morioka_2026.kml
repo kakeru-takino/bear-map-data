@@ -6501,7 +6501,8 @@
       </Placemark>
       <Placemark>
         <name>令和8年6月18日(黒川16地割)</name>
-        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月18日<br>出没時間: 16:30<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 黒川16地割<br>緯度: 39.623683496284166, 141.19211227028407<br>経度: 住宅敷地付近の藪に成獣１頭がとどまっている。<br>説明: ]]></description>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月18日<br>出没時間: 16:30<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 黒川16地割<br>緯度: 39.6236835<br>経度: 141.1921123<br>説明: 住宅敷地付近の藪に成獣１頭がとどまっている。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -6522,15 +6523,371 @@
             <value>黒川16地割</value>
           </Data>
           <Data name="緯度">
-            <value>39.623683496284166, 141.19211227028407</value>
+            <value>39.6236835</value>
           </Data>
           <Data name="経度">
-            <value>住宅敷地付近の藪に成獣１頭がとどまっている。</value>
+            <value>141.1921123</value>
           </Data>
           <Data name="説明">
-            <value/>
+            <value>住宅敷地付近の藪に成獣１頭がとどまっている。</value>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1921123,39.6236835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月19日(厨川五丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月19日<br>出没時間: 19:50<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 厨川五丁目<br>緯度: 39.74970269<br>経度: 141.125889<br>説明: 幼稚園の敷地内で成獣１頭を目撃。その後、住宅地内を移動している。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月19日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>19:50</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>厨川五丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74970269</value>
+          </Data>
+          <Data name="経度">
+            <value>141.125889</value>
+          </Data>
+          <Data name="説明">
+            <value>幼稚園の敷地内で成獣１頭を目撃。その後、住宅地内を移動している。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.125889,39.74970269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月20日(厨川五丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月20日<br>出没時間: 13:00<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 厨川五丁目<br>緯度: 39.7510727<br>経度: 141.1259359<br>説明: 住宅地で幼獣１頭を目撃。北（岩手牧場方向）に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月20日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>13:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>厨川五丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7510727</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1259359</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地で幼獣１頭を目撃。北（岩手牧場方向）に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1259359,39.7510727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月20日(厨川五丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月20日<br>出没時間: 20:15<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 厨川五丁目<br>緯度: 39.74873859<br>経度: 141.1253739<br>説明: 高等学校付近で幼獣１頭を目撃。その後、北側のドラックストア付近で個体を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月20日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>20:15</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>厨川五丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74873859</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1253739</value>
+          </Data>
+          <Data name="説明">
+            <value>高等学校付近で幼獣１頭を目撃。その後、北側のドラックストア付近で個体を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1253739,39.74873859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月21日(厨川一丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月21日<br>出没時間: 4:45<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 厨川一丁目<br>緯度: 39.74722527<br>経度: 141.1305795<br>説明: 厨川駐在所滝沢踏切付近で成獣１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月21日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>4:45</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>厨川一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74722527</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1305795</value>
+          </Data>
+          <Data name="説明">
+            <value>厨川駐在所滝沢踏切付近で成獣１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1305795,39.74722527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月21日(厨川一丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月21日<br>出没時間: 7:45<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 厨川一丁目<br>緯度: 39.74722527<br>経度: 141.1305795<br>説明: 厨川駐在所滝沢踏切付近で成獣１頭を目撃。付近を個体が移動している。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月21日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>7:45</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>厨川一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74722527</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1305795</value>
+          </Data>
+          <Data name="説明">
+            <value>厨川駐在所滝沢踏切付近で成獣１頭を目撃。付近を個体が移動している。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1305795,39.74722527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月21日(簗川第４地割)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月21日<br>出没時間: 8:10<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 簗川第４地割<br>緯度: 39.66469085<br>経度: 141.3055359<br>説明: 長洞神社前で成獣１頭を目撃（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月21日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8:10</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>簗川第４地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66469085</value>
+          </Data>
+          <Data name="経度">
+            <value>141.3055359</value>
+          </Data>
+          <Data name="説明">
+            <value>長洞神社前で成獣１頭を目撃（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.3055359,39.66469085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月21日(厨川三丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月21日<br>出没時間: 12:44<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 厨川三丁目<br>緯度: 39.75113551<br>経度: 141.1330097<br>説明: 住宅地内で幼獣１頭を目撃。南東（東北農業研究センター方向）に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月21日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12:44</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>厨川三丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75113551</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1330097</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地内で幼獣１頭を目撃。南東（東北農業研究センター方向）に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1330097,39.75113551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月21日(繋字猿田)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月21日<br>出没時間: 17:50<br>成獣/幼獣: 不明<br>頭数: ２頭<br>発生地域: 繋字猿田<br>緯度: 39.68149388<br>経度: 141.0273181<br>説明: 老人福祉施設周辺でクマらしきもの２頭を目撃。北東の山林に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月21日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>17:50</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>２頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字猿田</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68149388</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0273181</value>
+          </Data>
+          <Data name="説明">
+            <value>老人福祉施設周辺でクマらしきもの２頭を目撃。北東の山林に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0273181,39.68149388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月22日(下米内ニ丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月22日<br>出没時間: 5:10<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 下米内ニ丁目<br>緯度: 39.71739389<br>経度: 141.1779618<br>説明: 住宅地内で成獣１頭を目撃。北の山林に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月22日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>5:10</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>下米内ニ丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71739389</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1779618</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地内で成獣１頭を目撃。北の山林に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1779618,39.71739389,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
   </Document>

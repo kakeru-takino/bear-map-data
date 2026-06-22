@@ -312,6 +312,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>6月21日 8時20分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣1頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9784394,39.7374614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>6月21日 10時20分</name>
         <description><![CDATA[付近での目撃情報<br>親子クマ（成獣1頭、幼獣1頭）]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -328,6 +338,16 @@
         <Point>
           <coordinates>
             140.9480747,39.6908786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6月22日 4時00分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣1頭<br>移動中]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9461114,39.6925017,0
           </coordinates>
         </Point>
       </Placemark>
