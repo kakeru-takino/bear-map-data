@@ -381,6 +381,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>6月24日 6時19分</name>
+        <description><![CDATA[目撃情報（県道）<br>幼獣1頭<br>軽自動車と接触事故<br>クマはその後逃げた]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9461791,39.6195166,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Ｒ8クマ出没情報（Ｒ8.4～5月）</name>
