@@ -6929,6 +6929,45 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>令和8年6月24日(玉山馬場字前田)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月24日<br>出没時間: 11:30<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 玉山馬場字前田<br>緯度: 39.861329<br>経度: 141.219077<br>説明: 養鶏場の付近で成獣１頭を目撃。南東の方向に移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月24日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11:30</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>玉山馬場字前田</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.861329</value>
+          </Data>
+          <Data name="経度">
+            <value>141.219077</value>
+          </Data>
+          <Data name="説明">
+            <value>養鶏場の付近で成獣１頭を目撃。南東の方向に移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.219077,39.861329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>令和8年6月24日(高松四丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月24日<br>出没時間: 16:10<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 高松四丁目<br>緯度: 39.729076<br>経度: 141.135316<br>説明: 住宅周辺でクマらしきもの１頭を目撃（移動方向不明）]]></description>
         <styleUrl>#icon-1759-E65100</styleUrl>
@@ -7003,6 +7042,84 @@
         <Point>
           <coordinates>
             141.0001541,39.66684833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月24日(好摩字野中)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月24日<br>出没時間: 18:00<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 好摩字野中<br>緯度: 39.877566<br>経度: 141.165855<br>説明: 好摩体育館西側の県道沿いで、成獣１頭を目撃。西側の水田に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月24日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>18:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>好摩字野中</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.877566</value>
+          </Data>
+          <Data name="経度">
+            <value>141.165855</value>
+          </Data>
+          <Data name="説明">
+            <value>好摩体育館西側の県道沿いで、成獣１頭を目撃。西側の水田に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.165855,39.877566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年6月25日(茶畑一丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月25日<br>出没時間: 16:35<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 茶畑一丁目<br>緯度: 39.694256<br>経度: 141.164042<br>説明: 下校中の小学生がクマらしき動物２～３頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月25日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16:35</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>茶畑一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.694256</value>
+          </Data>
+          <Data name="経度">
+            <value>141.164042</value>
+          </Data>
+          <Data name="説明">
+            <value>下校中の小学生がクマらしき動物２～３頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.164042,39.694256,0
           </coordinates>
         </Point>
       </Placemark>
