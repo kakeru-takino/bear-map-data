@@ -7396,6 +7396,240 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年6月30日(繋字猿田)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年6月30日<br>出没時間: 16:40<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 繋字猿田<br>緯度: 39.68189628<br>経度: 141.0271993<br>説明: 木に登っている幼獣１頭を目撃。山林の奥に移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年6月30日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16:40</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字猿田</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68189628</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0271993</value>
+          </Data>
+          <Data name="説明">
+            <value>木に登っている幼獣１頭を目撃。山林の奥に移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0271993,39.68189628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月1日(繋字湯ノ舘)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月1日<br>出没時間: 8:40<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 繋字湯ノ舘<br>緯度: 39.67327845<br>経度: 141.0234831<br>説明: 繋温泉神社駐車場のコンクリート壁付近で成獣１頭を目撃。付近の山林奥に移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月1日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8:40</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字湯ノ舘</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67327845</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0234831</value>
+          </Data>
+          <Data name="説明">
+            <value>繋温泉神社駐車場のコンクリート壁付近で成獣１頭を目撃。付近の山林奥に移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0234831,39.67327845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月1日(川目第６地割)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月1日<br>出没時間: 12:00<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 川目第６地割<br>緯度: 39.67712218<br>経度: 141.2206234<br>説明: 道路を横断する成獣１頭を目撃。北の山林に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月1日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川目第６地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67712218</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2206234</value>
+          </Data>
+          <Data name="説明">
+            <value>道路を横断する成獣１頭を目撃。北の山林に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2206234,39.67712218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月1日(手代森12地割)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月1日<br>出没時間: 15:35<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 手代森12地割<br>緯度: 39.65734755<br>経度: 141.191013<br>説明: 道路を横断する幼獣１頭を目撃。南東に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月1日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>15:35</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>手代森12地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.65734755</value>
+          </Data>
+          <Data name="経度">
+            <value>141.191013</value>
+          </Data>
+          <Data name="説明">
+            <value>道路を横断する幼獣１頭を目撃。南東に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.191013,39.65734755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月2日(黒川11地割)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月2日<br>出没時間: 12:35<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 黒川11地割<br>緯度: 39.631024<br>経度: 141.18665<br>説明: 黒川町内会公民館付近の道路でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月2日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12:35</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>黒川11地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.631024</value>
+          </Data>
+          <Data name="経度">
+            <value>141.18665</value>
+          </Data>
+          <Data name="説明">
+            <value>黒川町内会公民館付近の道路でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.18665,39.631024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月2日(中野一丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月2日<br>出没時間: 14:15<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 中野一丁目<br>緯度: 39.69581513<br>経度: 141.1693121<br>説明: 道路で幼獣１頭を目撃。北（山王小学校方向）に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月2日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>14:15</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>中野一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69581513</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1693121</value>
+          </Data>
+          <Data name="説明">
+            <value>道路で幼獣１頭を目撃。北（山王小学校方向）に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1693121,39.69581513,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
