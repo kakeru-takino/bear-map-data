@@ -35519,6 +35519,123 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年7月3日(厨川四丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月3日<br>出没時間: 8:25<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 厨川四丁目<br>緯度: 39.74754898<br>経度: 141.1298685<br>説明: 東北新幹線の高架沿いを走る幼獣１頭を目撃。北に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月3日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8:25</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>厨川四丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74754898</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1298685</value>
+          </Data>
+          <Data name="説明">
+            <value>東北新幹線の高架沿いを走る幼獣１頭を目撃。北に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1298685,39.74754898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月3日(北松園三丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月3日<br>出没時間: 9:35<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 北松園三丁目<br>緯度: 39.7612187<br>経度: 141.166588<br>説明: みはらしの丘の西側でクマ１頭を目撃。南に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月3日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>9:35</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>北松園三丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7612187</value>
+          </Data>
+          <Data name="経度">
+            <value>141.166588</value>
+          </Data>
+          <Data name="説明">
+            <value>みはらしの丘の西側でクマ１頭を目撃。南に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.166588,39.7612187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月3日(厨川五丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月3日<br>出没時間: 10:00<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 厨川五丁目<br>緯度: 39.75170347<br>経度: 141.1289496<br>説明: 市営アパート付近でクマ１頭を目撃。岩手牧場方向に移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月3日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>10:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>厨川五丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75170347</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1289496</value>
+          </Data>
+          <Data name="説明">
+            <value>市営アパート付近でクマ１頭を目撃。岩手牧場方向に移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1289496,39.75170347,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
