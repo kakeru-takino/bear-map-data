@@ -7747,6 +7747,84 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年7月3日(繋字北久保)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月3日<br>出没時間: 18:28<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 繋字北久保<br>緯度: 39.68744148<br>経度: 141.0332442<br>説明: 猿田橋付近でクマ１頭を目撃。南に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月3日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>18:28</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字北久保</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68744148</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0332442</value>
+          </Data>
+          <Data name="説明">
+            <value>猿田橋付近でクマ１頭を目撃。南に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0332442,39.68744148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月5日(上米内字米内沢)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月5日<br>出没時間: 17:50<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 上米内字米内沢<br>緯度: 39.75297105<br>経度: 141.2003969<br>説明: 県道36号線で成獣１頭を目撃。西に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月5日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>17:50</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字米内沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75297105</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2003969</value>
+          </Data>
+          <Data name="説明">
+            <value>県道36号線で成獣１頭を目撃。西に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2003969,39.75297105,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
