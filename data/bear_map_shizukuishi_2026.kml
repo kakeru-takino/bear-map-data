@@ -482,6 +482,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>6月30日 14時55分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣１頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            141.0089535,39.6915297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>7月2日 12時30分</name>
         <description><![CDATA[付近での目撃情報<br>親子グマ（成獣1頭、幼獣1頭）]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -532,6 +542,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>7月3日 13時40分</name>
+        <description>付近での目撃　成獣1頭</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            141.0119208,39.703727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>7月4日 8時30分</name>
         <description><![CDATA[付近での目撃情報<br>親子連れ　子1頭]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -552,6 +572,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>7月5日 17時30分</name>
+        <description>付近での目撃　成獣1頭</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            141.0119181,39.7039106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>7月5日 14時05分</name>
         <description><![CDATA[付近での目撃情報<br>幼獣1頭]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -562,12 +592,32 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>7月6日 13時05分</name>
+        <description><![CDATA[付近での目撃情報<br>幼獣1頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            141.0135474,39.7008651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>7月6日 10時30分</name>
         <description><![CDATA[付近での目撃情報<br>幼獣1頭<br>南側へ移動]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
             140.9875824,39.6731544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7月7日 19時05分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣１頭<br>北上していった]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9643507,39.7578609,0
           </coordinates>
         </Point>
       </Placemark>
