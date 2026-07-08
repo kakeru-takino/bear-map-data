@@ -7942,6 +7942,45 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年7月7日(川目町)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月7日<br>出没時間: 15:15<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 川目町<br>緯度: 39.68428036<br>経度: 141.1845653<br>説明: 住宅地付近の土手でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月7日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>15:15</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川目町</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68428036</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1845653</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地付近の土手でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1845653,39.68428036,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
