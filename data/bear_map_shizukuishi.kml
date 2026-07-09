@@ -522,6 +522,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>7月2日 22時30分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣1頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9606535,39.7705828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>7月3日 6時30分</name>
         <description><![CDATA[付近での目撃情報<br>成獣1頭]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -563,7 +573,7 @@
       </Placemark>
       <Placemark>
         <name>7月5日 0時00分</name>
-        <description><![CDATA[住居内へ侵入<br>成獣1頭]]></description>
+        <description><![CDATA[付近での目撃情報<br>成獣1頭]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -628,6 +638,36 @@
         <Point>
           <coordinates>
             140.9616098,39.7609962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7月7日 4時00分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣1頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9623841,39.7697028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7月8日 23時38分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣1頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9610215,39.7675214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7月9日 7時15分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣1頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9786911,39.7372162,0
           </coordinates>
         </Point>
       </Placemark>
