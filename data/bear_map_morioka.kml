@@ -36456,6 +36456,45 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年7月11日(黒川23地割)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月11日<br>出没時間: 12:35<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 黒川23地割<br>緯度: 39.62281281<br>経度: 141.1882654<br>説明: 住宅周辺でクマ１頭を目撃。東に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月11日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12:35</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>黒川23地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.62281281</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1882654</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅周辺でクマ１頭を目撃。東に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1882654,39.62281281,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
