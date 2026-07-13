@@ -46,3 +46,17 @@ jobs:
             "data/bear_map_morioka_${YEAR}.kml" "data/bear_map_shizukuishi_${YEAR}.kml"
           git diff --cached --quiet || git commit -m "chore: update bear map KML $(date +%Y-%m-%d)"
           git push
+
+      - name: Upload to Google Drive
+        env:
+          GDRIVE_CLIENT_ID: ${{ secrets.GDRIVE_CLIENT_ID }}
+          GDRIVE_CLIENT_SECRET: ${{ secrets.GDRIVE_CLIENT_SECRET }}
+          GDRIVE_REFRESH_TOKEN: ${{ secrets.GDRIVE_REFRESH_TOKEN }}
+          GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
+        run: |
+          YEAR=$(date +%Y)
+          pip install --quiet google-auth google-auth-httplib2 google-api-python-client
+          # 生KMLと年別フィルタ済みの両方をDriveの定位置(同名を上書き)に保存する。
+          python3 scripts/upload_to_drive.py \
+            data/bear_map_shizukuishi.kml data/bear_map_morioka.kml \
+            "data/bear_map_morioka_${YEAR}.kml" "data/bear_map_shizukuishi_${YEAR}.kml"

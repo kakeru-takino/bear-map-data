@@ -1,1 +1,6 @@
 .DS_Store
+
+# Google OAuth の機密情報（絶対にコミットしない）
+client_secret*.json
+*token*.json
+.env
