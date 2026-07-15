@@ -8684,6 +8684,162 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年7月15日(下米内字馬場野)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月15日<br>出没時間: 7:00<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 下米内字馬場野<br>緯度: 39.72108307<br>経度: 141.1857245<br>説明: 上米内湯沢線でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月15日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>7:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>下米内字馬場野</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.72108307</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1857245</value>
+          </Data>
+          <Data name="説明">
+            <value>上米内湯沢線でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1857245,39.72108307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月15日(三ツ割字櫃石)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月15日<br>出没時間: 9:10<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 三ツ割字櫃石<br>緯度: 39.73533469<br>経度: 141.1640445<br>説明: 草地で成獣１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月15日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>9:10</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>三ツ割字櫃石</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73533469</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1640445</value>
+          </Data>
+          <Data name="説明">
+            <value>草地で成獣１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1640445,39.73533469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月15日(下太田下川原)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月15日<br>出没時間: 16:15<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 下太田下川原<br>緯度: 39.70039235<br>経度: 141.1211437<br>説明: 太田橋の袂付近の畑で成獣１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月15日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16:15</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>下太田下川原</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.70039235</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1211437</value>
+          </Data>
+          <Data name="説明">
+            <value>太田橋の袂付近の畑で成獣１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1211437,39.70039235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月15日(手代森３地割)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月15日<br>出没時間: 16:30<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 手代森３地割<br>緯度: 39.66825243<br>経度: 141.2085478<br>説明: 県道36号線で道路を横断する成獣１頭を目撃。東に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月15日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16:30</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>手代森３地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66825243</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2085478</value>
+          </Data>
+          <Data name="説明">
+            <value>県道36号線で道路を横断する成獣１頭を目撃。東に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2085478,39.66825243,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
