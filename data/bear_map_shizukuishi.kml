@@ -761,6 +761,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>7月16日 18時30分</name>
+        <description><![CDATA[付近での目撃情報<br>親子連れ　子１頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9530501,39.7323992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7月16日 22時20分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣1頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            141.0110423,39.7106552,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Ｒ8クマ出没情報（Ｒ8.4～5月）</name>
