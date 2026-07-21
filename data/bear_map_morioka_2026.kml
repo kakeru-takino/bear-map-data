@@ -8763,6 +8763,45 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>令和8年7月15日(玉山字白沢)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月15日<br>出没時間: 10:00<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 玉山字白沢<br>緯度: 39.813786<br>経度: 141.183583<br>説明: 住宅の裏で成獣１頭を目撃。濁川方面から西側の山に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月15日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>10:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>玉山字白沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.813786</value>
+          </Data>
+          <Data name="経度">
+            <value>141.183583</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅の裏で成獣１頭を目撃。濁川方面から西側の山に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.183583,39.813786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>令和8年7月15日(下太田下川原)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月15日<br>出没時間: 16:15<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 下太田下川原<br>緯度: 39.70039235<br>経度: 141.1211437<br>説明: 太田橋の袂付近の畑で成獣１頭を目撃。（移動方向不明）]]></description>
         <styleUrl>#icon-1759-E65100</styleUrl>
@@ -8841,6 +8880,86 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>令和8年7月15日(玉山馬場字川久保)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月15日<br>出没時間: 18:00<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: 1頭<br> １頭<br>発生地域: 玉山馬場字川久保<br>緯度: 39.875056<br>経度: 141.272016<br>説明: 上川久保集落に入るところの峠で親子グマ２頭を目撃。大神川の下流に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月15日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>18:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>玉山馬場字川久保</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.875056</value>
+          </Data>
+          <Data name="経度">
+            <value>141.272016</value>
+          </Data>
+          <Data name="説明">
+            <value>上川久保集落に入るところの峠で親子グマ２頭を目撃。大神川の下流に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.272016,39.875056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月15日(黒石野三丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月15日<br>出没時間: 22:30<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 黒石野三丁目<br>緯度: 39.74757688<br>経度: 141.1586361<br>説明: 住宅地内で幼獣１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月15日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>22:30</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>黒石野三丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74757688</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1586361</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地内で幼獣１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1586361,39.74757688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>令和8年7月16日(乙部9地割)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月16日<br>出没時間: 5:45<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 乙部9地割<br>緯度: 39.61702185<br>経度: 141.2040661<br>説明: ほ場でクマ１頭を目撃。（移動方向不明）]]></description>
         <styleUrl>#icon-1759-E65100</styleUrl>
@@ -8876,6 +8995,203 @@
         <Point>
           <coordinates>
             141.2040661,39.61702185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月17日(下米内字一本松)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月17日<br>出没時間: 10:50<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 下米内字一本松<br>緯度: 39.71719341<br>経度: 141.1834535<br>説明: 県道36号線でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月17日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>10:50</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>下米内字一本松</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71719341</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1834535</value>
+          </Data>
+          <Data name="説明">
+            <value>県道36号線でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1834535,39.71719341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月18日(緑が丘三丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月18日<br>出没時間: 21:15<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 緑が丘三丁目<br>緯度: 39.73711319<br>経度: 141.1475507<br>説明: 黒石野平児童公園で親子グマ２頭を目撃。西に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月18日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>21:15</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>緑が丘三丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73711319</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1475507</value>
+          </Data>
+          <Data name="説明">
+            <value>黒石野平児童公園で親子グマ２頭を目撃。西に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1475507,39.73711319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月19日(青山四丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月19日<br>出没時間: 3:25<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 青山四丁目<br>緯度: 39.7330885<br>経度: 141.1184532<br>説明: 岩手県営交通公園でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月19日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>3:25</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>青山四丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7330885</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1184532</value>
+          </Data>
+          <Data name="説明">
+            <value>岩手県営交通公園でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1184532,39.7330885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月19日(上米内字米内沢)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月19日<br>出没時間: 17:25<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 上米内字米内沢<br>緯度: 39.74727019<br>経度: 141.2064225<br>説明: 百目木橋付近でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月19日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>17:25</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字米内沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74727019</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2064225</value>
+          </Data>
+          <Data name="説明">
+            <value>百目木橋付近でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2064225,39.74727019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月19日(上堂二丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月19日<br>出没時間: 23:55<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 上堂二丁目<br>緯度: 39.7289852<br>経度: 141.1248412<br>説明: 上堂交差点近くのコンビニエンスストア周辺でクマ１頭を目撃。東に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月19日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>23:55</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上堂二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7289852</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1248412</value>
+          </Data>
+          <Data name="説明">
+            <value>上堂交差点近くのコンビニエンスストア周辺でクマ１頭を目撃。東に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1248412,39.7289852,0
           </coordinates>
         </Point>
       </Placemark>
