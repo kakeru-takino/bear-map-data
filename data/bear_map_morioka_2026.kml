@@ -9511,6 +9511,45 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年7月29日(浅岸三丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月29日<br>出没時間: 8:40<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 浅岸三丁目<br>緯度: 39.71006411<br>経度: 141.1848543<br>説明: 住宅近くの道路で子グマ１頭を目撃。東の藪に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月29日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8:40</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>浅岸三丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71006411</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1848543</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅近くの道路で子グマ１頭を目撃。東の藪に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1848543,39.71006411,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
