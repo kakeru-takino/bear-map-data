@@ -37439,6 +37439,123 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年7月30日(黒川５地割)</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>名前: 令和8年7月30日<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 黒川５地割<br>緯度: 39.63827194<br>経度: 141.1908106<br>説明: 住宅地周辺のほ場でクマの痕跡を確認。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月30日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>黒川５地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.63827194</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1908106</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地周辺のほ場でクマの痕跡を確認。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1908106,39.63827194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月30日(八幡町)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月30日<br>出没時間: 23:30<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 八幡町<br>緯度: 39.69759538<br>経度: 141.1636325<br>説明: 盛岡八幡宮北鳥居付近で幼獣１頭を目撃。北に向かって移動していった]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月30日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>23:30</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>八幡町</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69759538</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1636325</value>
+          </Data>
+          <Data name="説明">
+            <value>盛岡八幡宮北鳥居付近で幼獣１頭を目撃。北に向かって移動していった</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1636325,39.69759538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年7月31日(浅岸字二ツ森)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年7月31日<br>出没時間: 6:35<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 浅岸字二ツ森<br>緯度: 39.71221111<br>経度: 141.2050107<br>説明: 綱取ダム管理事務所の南側で幼獣１頭を目撃。南に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年7月31日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>6:35</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>浅岸字二ツ森</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71221111</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2050107</value>
+          </Data>
+          <Data name="説明">
+            <value>綱取ダム管理事務所の南側で幼獣１頭を目撃。南に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2050107,39.71221111,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
