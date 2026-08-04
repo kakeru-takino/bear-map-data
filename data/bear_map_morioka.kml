@@ -37634,6 +37634,123 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年8月3日(繋字堂ケ沢)</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>名前: 令和8年8月3日<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 繋字堂ケ沢<br>緯度: 39.68589297<br>経度: 141.0135353<br>説明: 家庭菜園でクマの痕跡を確認。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年8月3日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>不明</value>
+          </Data>
+          <Data name="発生地域">
+            <value>繋字堂ケ沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.68589297</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0135353</value>
+          </Data>
+          <Data name="説明">
+            <value>家庭菜園でクマの痕跡を確認。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0135353,39.68589297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年8月4日(上飯岡７地割)</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>名前: 令和8年8月4日<br>出没時間: 不明<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 上飯岡７地割<br>緯度: 39.65955982<br>経度: 141.0830031<br>説明: ほ場でクマの痕跡を確認]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年8月4日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上飯岡７地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.65955982</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0830031</value>
+          </Data>
+          <Data name="説明">
+            <value>ほ場でクマの痕跡を確認</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0830031,39.65955982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年8月4日(湯沢一丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月4日<br>出没時間: 6:55<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 湯沢一丁目<br>緯度: 39.64383604<br>経度: 141.0970632<br>説明: 湯沢中央公園の野球グラウンドで幼獣１頭を目撃。南（ため池方向）に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年8月4日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>6:55</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>湯沢一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.64383604</value>
+          </Data>
+          <Data name="経度">
+            <value>141.0970632</value>
+          </Data>
+          <Data name="説明">
+            <value>湯沢中央公園の野球グラウンドで幼獣１頭を目撃。南（ため池方向）に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.0970632,39.64383604,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
