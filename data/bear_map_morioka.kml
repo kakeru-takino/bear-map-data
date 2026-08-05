@@ -37751,6 +37751,45 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年8月4日(川目第11地割)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月4日<br>出没時間: 19:55<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 川目第11地割<br>緯度: 39.67795563<br>経度: 141.1890844<br>説明: 宇津野橋付近で成獣１頭を目撃。南（簗川方向）に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年8月4日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>19:55</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>川目第11地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67795563</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1890844</value>
+          </Data>
+          <Data name="説明">
+            <value>宇津野橋付近で成獣１頭を目撃。南（簗川方向）に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1890844,39.67795563,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
