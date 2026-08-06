@@ -9901,6 +9901,127 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年8月5日(上米内字松木平)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月5日<br>出没時間: 15:20<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 上米内字松木平<br>緯度: 39.74034353<br>経度: 141.1969818<br>説明: 米内川沿いを移動する成獣１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年8月5日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>15:20</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上米内字松木平</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74034353</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1969818</value>
+          </Data>
+          <Data name="説明">
+            <value>米内川沿いを移動する成獣１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1969818,39.74034353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年8月6日(上田字小鳥沢)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月6日<br>出没時間: 8:06<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 上田字小鳥沢<br>緯度: 39.76295975<br>経度: 141.1831257<br>説明: 盛岡市クリーンセンター周辺で親子グマ２頭を目撃。西に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年8月6日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8:06</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上田字小鳥沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.76295975</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1831257</value>
+          </Data>
+          <Data name="説明">
+            <value>盛岡市クリーンセンター周辺で親子グマ２頭を目撃。西に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1831257,39.76295975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年8月6日(東松園二丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月6日<br>出没時間: 10:05<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 東松園二丁目<br>緯度: 39.75519416<br>経度: 141.1656612<br>説明: 松園中央公園内のテニスコート付近で親子グマらしきもの２頭を目撃。北（東松園小学校方向）に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年8月6日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>10:05</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東松園二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75519416</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1656612</value>
+          </Data>
+          <Data name="説明">
+            <value>松園中央公園内のテニスコート付近で親子グマらしきもの２頭を目撃。北（東松園小学校方向）に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1656612,39.75519416,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
