@@ -861,6 +861,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>8月8日 17時20分</name>
+        <description><![CDATA[付近での目撃情報<br>親子連れ　子2頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9590672,39.7331917,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Ｒ8クマ出没情報（Ｒ8.4～5月）</name>
