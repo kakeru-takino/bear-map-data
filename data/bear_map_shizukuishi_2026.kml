@@ -871,6 +871,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>8月12日 13時50分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣１頭　南側へ道路を横断]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9199029,39.6884018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8月12日 18時56分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣１頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9454232,39.7885031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8月13日 15時15分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣1頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9525,39.7360916,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Ｒ8クマ出没情報（Ｒ8.4～5月）</name>
