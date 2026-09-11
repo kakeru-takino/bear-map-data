@@ -29401,7 +29401,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>R8.4月-7月</name>
+      <name>R8.4月-8月</name>
       <Placemark>
         <name>令和8年4月1日(小鳥沢２丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年4月1日<br>出没時間: 13:11<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 小鳥沢２丁目<br>緯度: 39.76638122<br>経度: 141.1706286<br>説明: 小鳥沢薬局付近で車から成獣１頭を目撃。左手側ののり面に移動していった。]]></description>
@@ -37514,13 +37514,10 @@
           </coordinates>
         </Point>
       </Placemark>
-    </Folder>
-    <Folder>
-      <name>R8.8月～</name>
       <Placemark>
         <name>令和8年8月1日(湯沢南一丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月1日<br>出没時間: 13:05<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 湯沢南一丁目<br>緯度: 39.63952138<br>経度: 141.0928883<br>説明: 住宅地で幼獣１頭を目撃。東から西（湯沢緑地方向）に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -37559,7 +37556,7 @@
       <Placemark>
         <name>令和8年8月1日(北山一丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月1日<br>出没時間: 18:41<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 北山一丁目<br>緯度: 39.71241506<br>経度: 141.1535472<br>説明: 真行寺付近の踏切でクマ１頭を目撃。（移動方向不明）]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -37598,7 +37595,7 @@
       <Placemark>
         <name>令和8年8月1日(永井17地割)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月1日<br>出没時間: 20:15<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 永井17地割<br>緯度: 39.65321182<br>経度: 141.1472858<br>説明: 岩手飯岡駅東口の公園付近で幼獣１頭を目撃。西（線路方向）に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -37637,7 +37634,7 @@
       <Placemark>
         <name>令和8年8月3日(繋字堂ケ沢)</name>
         <description><![CDATA[出没区分: 02 痕跡<br>名前: 令和8年8月3日<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: 不明<br>発生地域: 繋字堂ケ沢<br>緯度: 39.68589297<br>経度: 141.0135353<br>説明: 家庭菜園でクマの痕跡を確認。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>02 痕跡</value>
@@ -37676,7 +37673,7 @@
       <Placemark>
         <name>令和8年8月4日(上飯岡７地割)</name>
         <description><![CDATA[出没区分: 02 痕跡<br>名前: 令和8年8月4日<br>出没時間: 不明<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 上飯岡７地割<br>緯度: 39.65955982<br>経度: 141.0830031<br>説明: ほ場でクマの痕跡を確認]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>02 痕跡</value>
@@ -37715,7 +37712,7 @@
       <Placemark>
         <name>令和8年8月4日(湯沢一丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月4日<br>出没時間: 6:55<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 湯沢一丁目<br>緯度: 39.64383604<br>経度: 141.0970632<br>説明: 湯沢中央公園の野球グラウンドで幼獣１頭を目撃。南（ため池方向）に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -37754,7 +37751,7 @@
       <Placemark>
         <name>令和8年8月4日(川目第11地割)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月4日<br>出没時間: 19:55<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 川目第11地割<br>緯度: 39.67795563<br>経度: 141.1890844<br>説明: 宇津野橋付近で成獣１頭を目撃。南（簗川方向）に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -37793,7 +37790,7 @@
       <Placemark>
         <name>令和8年8月5日(上米内字松木平)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月5日<br>出没時間: 15:20<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 上米内字松木平<br>緯度: 39.74034353<br>経度: 141.1969818<br>説明: 米内川沿いを移動する成獣１頭を目撃。（移動方向不明）]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -37832,7 +37829,7 @@
       <Placemark>
         <name>令和8年8月6日(下田字生出)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月6日<br>出没時間: 6:10<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 下田字生出<br>緯度: 39.874512<br>経度: 141.126963<br>説明: 西から東に道路を横断する成獣１頭を目撃。南東方向に移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -37871,7 +37868,7 @@
       <Placemark>
         <name>令和8年8月6日(上田字小鳥沢)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月6日<br>出没時間: 8:06<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 上田字小鳥沢<br>緯度: 39.76295975<br>経度: 141.1831257<br>説明: 盛岡市クリーンセンター周辺で親子グマ２頭を目撃。西に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -37912,7 +37909,7 @@
       <Placemark>
         <name>令和8年8月6日(東松園二丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月6日<br>出没時間: 10:05<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 東松園二丁目<br>緯度: 39.75519416<br>経度: 141.1656612<br>説明: 松園中央公園内のテニスコート付近で親子グマらしきもの２頭を目撃。北（東松園小学校方向）に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -37953,7 +37950,7 @@
       <Placemark>
         <name>令和8年8月7日(北松園三丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月7日<br>出没時間: 19:35<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 北松園三丁目<br>緯度: 39.76086761<br>経度: 141.1671438<br>説明: 住宅地内で幼獣１頭を目撃。南東（せせらぎ緑地方向）に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -37992,7 +37989,7 @@
       <Placemark>
         <name>令和8年8月8日(山岸二丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月8日<br>出没時間: 0:50<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 山岸二丁目<br>緯度: 39.71424023<br>経度: 141.1691183<br>説明: 山岸小学校付近で成獣１頭を目撃。東に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38031,7 +38028,7 @@
       <Placemark>
         <name>令和8年8月10日(厨川一丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月10日<br>出没時間: 4:30<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 厨川一丁目<br>緯度: 39.74258236<br>経度: 141.1291135<br>説明: 厨川郵便局付近で幼獣１頭を目撃。北東に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38070,7 +38067,7 @@
       <Placemark>
         <name>令和8年8月12日(好摩字野中)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月12日<br>出没時間: 7:50<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 好摩字野中<br>緯度: 39.882648<br>経度: 141.165376<br>説明: 好摩体育館の北800m付近の退避所周辺で成獣１頭を目撃。西から東に道路を横断し、山林方向に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38109,7 +38106,7 @@
       <Placemark>
         <name>令和8年8月13日(東松園一丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月13日<br>出没時間: 15:55<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 東松園一丁目<br>緯度: 39.7454079<br>経度: 141.1693488<br>説明: 住宅敷地で成獣１頭を目撃。（移動方向不明）]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38148,7 +38145,7 @@
       <Placemark>
         <name>令和8年8月14日(下田字生出)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月14日<br>出没時間: 17:15<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 下田字生出<br>緯度: 39.87893028<br>経度: 141.1055604<br>説明: 住宅の西側の山（岩手森）から、北側に向かって移動する成獣１頭を目撃。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38187,7 +38184,7 @@
       <Placemark>
         <name>令和8年8月19日(上鹿妻二ツ沢)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月19日<br>出没時間: 17:10<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 上鹿妻二ツ沢<br>緯度: 39.68846401<br>経度: 141.1542057<br>説明: こずかた動物霊園付近の道路で幼獣１頭を目撃。東の山林に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38226,7 +38223,7 @@
       <Placemark>
         <name>令和8年8月20日(北松園一丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月20日<br>出没時間: 19:15<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 北松園一丁目<br>緯度: 39.75842254<br>経度: 141.1735602<br>説明: 松園東近隣公園の南西側の交差点付近で幼獣１頭を目撃。南東の山林に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38265,7 +38262,7 @@
       <Placemark>
         <name>令和8年8月22日(松園三丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月22日<br>出没時間: 18:13<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 松園三丁目<br>緯度: 39.7494699<br>経度: 141.1611602<br>説明: ひまわり幼児公園付近で成獣１頭を目撃（移動方向不明）]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38304,7 +38301,7 @@
       <Placemark>
         <name>令和8年8月31日(薮川字末崎川)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月31日<br>出没時間: 6:25<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 薮川字末崎川<br>緯度: 39.840111<br>経度: 141.483596<br>説明: 早坂トンネルの手前周辺の草むらで成獣１頭を目撃。（移動方向不明）]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38343,7 +38340,7 @@
       <Placemark>
         <name>令和8年8月31日(黒川21地割)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月31日<br>出没時間: 8:25<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 黒川21地割<br>緯度: 39.62153512<br>経度: 141.1896315<br>説明: 乙部中学校と盛岡聴覚支援学校の中間地点付近で成獣１頭を目撃。北東に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38382,7 +38379,7 @@
       <Placemark>
         <name>令和8年8月31日(山岸六丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月31日<br>出没時間: 18:10<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 山岸六丁目<br>緯度: 39.72865272<br>経度: 141.1663719<br>説明: 住宅地内で成獣１頭を目撃。北に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
+        <styleUrl>#icon-1759-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="出没区分">
             <value>01 目撃</value>
@@ -38418,6 +38415,9 @@
           </coordinates>
         </Point>
       </Placemark>
+    </Folder>
+    <Folder>
+      <name>R8.9月～</name>
       <Placemark>
         <name>令和8年9月1日(乙部14地割)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月1日<br>出没時間: 7:10<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 乙部14地割<br>緯度: 39.61032457<br>経度: 141.208867<br>説明: 農地周辺で成獣１頭を目撃。西に向かって移動していった。]]></description>
@@ -38805,6 +38805,84 @@
         <Point>
           <coordinates>
             141.1834314,39.70106274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年9月10日(北山一丁目)</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>名前: 令和8年9月10日<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 北山一丁目<br>緯度: 39.7136998<br>経度: 141.1499068<br>説明: 盛岡視覚支援学校敷地内でクマの足跡らしきものを確認。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月10日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>北山一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7136998</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1499068</value>
+          </Data>
+          <Data name="説明">
+            <value>盛岡視覚支援学校敷地内でクマの足跡らしきものを確認。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1499068,39.7136998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年9月11日(加賀野一丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月11日<br>出没時間: 12:40<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 加賀野一丁目<br>緯度: 39.708398<br>経度: 141.162239<br>説明: 中津川河川敷の木に登っている幼獣１頭を目撃。その後、木を下りて付近を徘徊している。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月11日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12:40</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>加賀野一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.708398</value>
+          </Data>
+          <Data name="経度">
+            <value>141.162239</value>
+          </Data>
+          <Data name="説明">
+            <value>中津川河川敷の木に登っている幼獣１頭を目撃。その後、木を下りて付近を徘徊している。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.162239,39.708398,0
           </coordinates>
         </Point>
       </Placemark>
