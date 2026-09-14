@@ -38886,6 +38886,84 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年9月12日(南仙北二丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月12日<br>出没時間: 23:05<br>成獣/幼獣: 幼獣<br>頭数: １頭<br>発生地域: 南仙北二丁目<br>緯度: 39.67097621<br>経度: 141.1491092<br>説明: 住宅地内で幼獣１頭を目撃。南に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月12日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>23:05</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>南仙北二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.67097621</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1491092</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地内で幼獣１頭を目撃。南に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1491092,39.67097621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年9月13日(高松四丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月13日<br>出没時間: 14:04<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 高松四丁目<br>緯度: 39.72781431<br>経度: 141.1348889<br>説明: 住宅地内でクマ１頭を目撃。北に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月13日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>14:04</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>高松四丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.72781431</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1348889</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地内でクマ１頭を目撃。北に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1348889,39.72781431,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
