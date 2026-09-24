@@ -11153,6 +11153,242 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年9月19日(松園三丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月19日<br>出没時間: 5:30<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 松園三丁目<br>緯度: 39.74835257<br>経度: 141.1621912<br>説明: 住宅地内にてクマ１頭を目撃。北に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月19日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>5:30</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>松園三丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74835257</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1621912</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地内にてクマ１頭を目撃。北に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1621912,39.74835257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年9月20日(好摩字好摩沢)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月20日<br>出没時間: 8:25<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 好摩字好摩沢<br>緯度: 39.896987<br>経度: 141.176429<br>説明: 道路にて成獣１頭を目撃。東側の森に逃げていった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月20日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8:25</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>好摩字好摩沢</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.896987</value>
+          </Data>
+          <Data name="経度">
+            <value>141.176429</value>
+          </Data>
+          <Data name="説明">
+            <value>道路にて成獣１頭を目撃。東側の森に逃げていった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.176429,39.896987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年9月20日(上田松屋敷95)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月20日<br>出没時間: 8:45<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 上田松屋敷95<br>緯度: 39.75065858<br>経度: 141.1480653<br>説明: 四十四田橋下のダム湖を泳いでいるクマ１頭を目撃。北東に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月20日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8:45</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上田松屋敷95</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.75065858</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1480653</value>
+          </Data>
+          <Data name="説明">
+            <value>四十四田橋下のダム湖を泳いでいるクマ１頭を目撃。北東に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1480653,39.75065858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年9月20日(東新庄二丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月20日<br>出没時間: 15:05<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> １頭<br>発生地域: 東新庄二丁目<br>緯度: 39.70526577<br>経度: 141.1707292<br>説明: 国道４号線沿いで親子グマ２頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月20日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>15:05</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ １頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東新庄二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.70526577</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1707292</value>
+          </Data>
+          <Data name="説明">
+            <value>国道４号線沿いで親子グマ２頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1707292,39.70526577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年9月20日(北松園四丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月20日<br>出没時間: 16:00<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 北松園四丁目<br>緯度: 39.76286074<br>経度: 141.1780294<br>説明: 北松園緑地でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月20日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>16:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>北松園四丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.76286074</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1780294</value>
+          </Data>
+          <Data name="説明">
+            <value>北松園緑地でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1780294,39.76286074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年9月22日(渋民字鶴飼)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月22日<br>出没時間: 12:00<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 渋民字鶴飼<br>緯度: 39.852004<br>経度: 141.171378<br>説明: 県道を西に横断する成獣１頭を目撃。北上川方面に向かっていった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月22日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>12:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>渋民字鶴飼</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.852004</value>
+          </Data>
+          <Data name="経度">
+            <value>141.171378</value>
+          </Data>
+          <Data name="説明">
+            <value>県道を西に横断する成獣１頭を目撃。北上川方面に向かっていった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.171378,39.852004,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
