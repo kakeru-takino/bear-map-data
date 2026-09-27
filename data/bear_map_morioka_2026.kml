@@ -11389,6 +11389,45 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年9月25日(三本柳６地割)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月25日<br>出没時間: 21:00<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 三本柳６地割<br>緯度: 39.66309859<br>経度: 141.1671336<br>説明: 盛岡赤十字病院の北側の道路でクマ１頭を目撃。北に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月25日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>21:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>三本柳６地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.66309859</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1671336</value>
+          </Data>
+          <Data name="説明">
+            <value>盛岡赤十字病院の北側の道路でクマ１頭を目撃。北に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1671336,39.66309859,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
