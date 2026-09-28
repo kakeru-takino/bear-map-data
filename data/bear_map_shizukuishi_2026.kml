@@ -77,6 +77,16 @@
     </StyleMap>
     <Folder>
       <name>Ｒ8クマ出没情報（Ｒ8.9月）</name>
+      <Placemark>
+        <name>9月27日 7時30分</name>
+        <description><![CDATA[付近での目撃情報<br>成獣１頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            140.9221449,39.6345596,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Ｒ8クマ出没状況（Ｒ8.6～8月）</name>
