@@ -39317,6 +39317,84 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年9月28日(下田字生出)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月28日<br>出没時間: 7:20<br>成獣/幼獣: 不明<br>頭数: 2頭<br>発生地域: 下田字生出<br>緯度: 39.876602<br>経度: 141.131114<br>説明: 生出スキー場周辺でクマ２頭を目撃。南東へ向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月28日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>7:20</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>2頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>下田字生出</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.876602</value>
+          </Data>
+          <Data name="経度">
+            <value>141.131114</value>
+          </Data>
+          <Data name="説明">
+            <value>生出スキー場周辺でクマ２頭を目撃。南東へ向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.131114,39.876602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年9月28日(茶畑一丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年9月28日<br>出没時間: 21:30<br>成獣/幼獣: 幼獣<br>頭数: 1頭<br>発生地域: 茶畑一丁目<br>緯度: 39.69457352<br>経度: 141.1616111<br>説明: 住宅地周辺で幼獣１頭を目撃。北に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年9月28日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>21:30</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>茶畑一丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.69457352</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1616111</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地周辺で幼獣１頭を目撃。北に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1616111,39.69457352,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
