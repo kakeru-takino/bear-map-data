@@ -39474,6 +39474,47 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>令和8年10月5日(乙部１地割)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年10月5日<br>出没時間: 13:00<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> ２頭<br>発生地域: 乙部１地割<br>緯度: 39.6205219<br>経度: 141.2034801<br>説明: 果樹のほ場付近で親子グマ３頭を目撃。東（山林方向）に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年10月5日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>13:00</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ ２頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>乙部１地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.6205219</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2034801</value>
+          </Data>
+          <Data name="説明">
+            <value>果樹のほ場付近で親子グマ３頭を目撃。東（山林方向）に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2034801,39.6205219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>令和8年10月7日(高松四丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年10月7日<br>出没時間: 7:40<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 高松四丁目<br>緯度: 39.72642653<br>経度: 141.1384645<br>説明: 住宅地周辺でクマ１頭を目撃。南に向かって移動していった。]]></description>
         <styleUrl>#icon-1759-E65100</styleUrl>
@@ -39626,6 +39667,45 @@
         <Point>
           <coordinates>
             141.1457992,39.74090695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年10月16日(上田堤二丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年10月16日<br>出没時間: 1:16<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 上田堤二丁目<br>緯度: 39.72914148<br>経度: 141.1521701<br>説明: 児童公園付近で成獣１頭を目撃。北に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年10月16日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>1:16</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>上田堤二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.72914148</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1521701</value>
+          </Data>
+          <Data name="説明">
+            <value>児童公園付近で成獣１頭を目撃。北に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1521701,39.72914148,0
           </coordinates>
         </Point>
       </Placemark>
