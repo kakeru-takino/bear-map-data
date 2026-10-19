@@ -39,6 +39,42 @@
         <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1899-FFEA00-normal">
       <IconStyle>
         <color>ff00eaff</color>
@@ -94,6 +130,16 @@
         <Point>
           <coordinates>
             140.9603973,39.7704362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9月30日～クマ出没情報なし</name>
+        <description>10月18日まで出没情報なし</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            140.968486,39.6960224,0
           </coordinates>
         </Point>
       </Placemark>
