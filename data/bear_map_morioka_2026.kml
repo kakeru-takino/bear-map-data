@@ -12054,6 +12054,164 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年10月28日(箱清水二丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年10月28日<br>出没時間: 23:35<br>成獣/幼獣: 幼獣<br>頭数: 2頭<br>発生地域: 箱清水二丁目<br>緯度: 39.7339767<br>経度: 141.1303078<br>説明: ほ場付近で幼獣２頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年10月28日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>23:35</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>2頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>箱清水二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7339767</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1303078</value>
+          </Data>
+          <Data name="説明">
+            <value>ほ場付近で幼獣２頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1303078,39.7339767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年10月29日(上堂四丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年10月29日<br>出没時間: 11:50<br>成獣/幼獣: 成獣<br>頭数: <br>発生地域: 上堂四丁目<br>緯度: 39.73646347<br>経度: 141.1255814<br>説明: 事業所敷地付近で幼獣１頭を目撃。近くの藪から出入りを繰り返し、その後東（北上川方向）に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年10月29日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11:50</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value/>
+          </Data>
+          <Data name="発生地域">
+            <value>上堂四丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73646347</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1255814</value>
+          </Data>
+          <Data name="説明">
+            <value>事業所敷地付近で幼獣１頭を目撃。近くの藪から出入りを繰り返し、その後東（北上川方向）に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1255814,39.73646347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年10月30日(乙部１地割)</name>
+        <description><![CDATA[出没区分: 02 痕跡<br>名前: 令和8年10月30日<br>出没時間: 不明<br>成獣/幼獣: 成獣<br> 幼獣<br>頭数: １頭<br> 1頭<br>発生地域: 乙部１地割<br>緯度: 39.62101273<br>経度: 141.2047386<br>説明: りんごのほ場で親子クマ２頭を目撃及び痕跡を確認。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>02 痕跡</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年10月30日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣
+ 幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭
+ 1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>乙部１地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.62101273</value>
+          </Data>
+          <Data name="経度">
+            <value>141.2047386</value>
+          </Data>
+          <Data name="説明">
+            <value>りんごのほ場で親子クマ２頭を目撃及び痕跡を確認。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.2047386,39.62101273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年10月31日(東新庄二丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年10月31日<br>出没時間: 9:04<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 東新庄二丁目<br>緯度: 39.70448979<br>経度: 141.1705956<br>説明: 岩山入口交差点付近で成獣１頭を目撃。西に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年10月31日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>9:04</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東新庄二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.70448979</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1705956</value>
+          </Data>
+          <Data name="説明">
+            <value>岩山入口交差点付近で成獣１頭を目撃。西に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1705956,39.70448979,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
