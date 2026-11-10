@@ -1517,162 +1517,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>令和8年11月3日(東黒石野三丁目)</name>
-        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月3日<br>出没時間: 9:30<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 東黒石野三丁目<br>緯度: 39.74868066<br>経度: 141.1583129<br>説明: 旧松園第一病院付近で成獣１頭を目撃。北東に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
-        <ExtendedData>
-          <Data name="出没区分">
-            <value>01 目撃</value>
-          </Data>
-          <Data name="名前">
-            <value>令和8年11月3日</value>
-          </Data>
-          <Data name="出没時間">
-            <value>9:30</value>
-          </Data>
-          <Data name="成獣/幼獣">
-            <value>成獣</value>
-          </Data>
-          <Data name="頭数">
-            <value>1頭</value>
-          </Data>
-          <Data name="発生地域">
-            <value>東黒石野三丁目</value>
-          </Data>
-          <Data name="緯度">
-            <value>39.74868066</value>
-          </Data>
-          <Data name="経度">
-            <value>141.1583129</value>
-          </Data>
-          <Data name="説明">
-            <value>旧松園第一病院付近で成獣１頭を目撃。北東に向かって移動していった。</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            141.1583129,39.74868066,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>令和8年11月3日(長橋町)</name>
-        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月3日<br>出没時間: 19:35<br>成獣/幼獣: 幼獣<br>頭数: 1頭<br>発生地域: 長橋町<br>緯度: 39.72190864<br>経度: 141.1026359<br>説明: 有料老人ホーム付近で幼獣1頭を目撃。東に向かって移動していった。]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
-        <ExtendedData>
-          <Data name="出没区分">
-            <value>01 目撃</value>
-          </Data>
-          <Data name="名前">
-            <value>令和8年11月3日</value>
-          </Data>
-          <Data name="出没時間">
-            <value>19:35</value>
-          </Data>
-          <Data name="成獣/幼獣">
-            <value>幼獣</value>
-          </Data>
-          <Data name="頭数">
-            <value>1頭</value>
-          </Data>
-          <Data name="発生地域">
-            <value>長橋町</value>
-          </Data>
-          <Data name="緯度">
-            <value>39.72190864</value>
-          </Data>
-          <Data name="経度">
-            <value>141.1026359</value>
-          </Data>
-          <Data name="説明">
-            <value>有料老人ホーム付近で幼獣1頭を目撃。東に向かって移動していった。</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            141.1026359,39.72190864,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>令和8年11月6日(梨木町11)</name>
-        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月6日<br>出没時間: 7:05<br>成獣/幼獣: 不明<br>頭数: 1頭<br>発生地域: 梨木町11<br>緯度: 39.71254857<br>経度: 141.1364336<br>説明: 岩手大学学生寮付近でクマ１頭を目撃。（移動方向不明）]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
-        <ExtendedData>
-          <Data name="出没区分">
-            <value>01 目撃</value>
-          </Data>
-          <Data name="名前">
-            <value>令和8年11月6日</value>
-          </Data>
-          <Data name="出没時間">
-            <value>7:05</value>
-          </Data>
-          <Data name="成獣/幼獣">
-            <value>不明</value>
-          </Data>
-          <Data name="頭数">
-            <value>1頭</value>
-          </Data>
-          <Data name="発生地域">
-            <value>梨木町11</value>
-          </Data>
-          <Data name="緯度">
-            <value>39.71254857</value>
-          </Data>
-          <Data name="経度">
-            <value>141.1364336</value>
-          </Data>
-          <Data name="説明">
-            <value>岩手大学学生寮付近でクマ１頭を目撃。（移動方向不明）</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            141.1364336,39.71254857,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>令和8年11月6日(小鳥沢二丁目)</name>
-        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月6日<br>出没時間: 8:19<br>成獣/幼獣: 不明<br>頭数: 1頭<br>発生地域: 小鳥沢二丁目<br>緯度: 39.7666806<br>経度: 141.1706218<br>説明: ゴミステーション付近でクマ１頭目撃。（移動方向不明）]]></description>
-        <styleUrl>#icon-1759-E65100</styleUrl>
-        <ExtendedData>
-          <Data name="出没区分">
-            <value>01 目撃</value>
-          </Data>
-          <Data name="名前">
-            <value>令和8年11月6日</value>
-          </Data>
-          <Data name="出没時間">
-            <value>8:19</value>
-          </Data>
-          <Data name="成獣/幼獣">
-            <value>不明</value>
-          </Data>
-          <Data name="頭数">
-            <value>1頭</value>
-          </Data>
-          <Data name="発生地域">
-            <value>小鳥沢二丁目</value>
-          </Data>
-          <Data name="緯度">
-            <value>39.7666806</value>
-          </Data>
-          <Data name="経度">
-            <value>141.1706218</value>
-          </Data>
-          <Data name="説明">
-            <value>ゴミステーション付近でクマ１頭目撃。（移動方向不明）</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            141.1706218,39.7666806,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>令和8年4月1日(小鳥沢２丁目)</name>
         <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年4月1日<br>出没時間: 13:11<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 小鳥沢２丁目<br>緯度: 39.76638122<br>経度: 141.1706286<br>説明: 小鳥沢薬局付近で車から成獣１頭を目撃。左手側ののり面に移動していった。]]></description>
         <styleUrl>#icon-1759-FFEA00</styleUrl>
@@ -12365,6 +12209,201 @@
         <Point>
           <coordinates>
             141.1705956,39.70448979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年11月3日(東黒石野三丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月3日<br>出没時間: 9:30<br>成獣/幼獣: 成獣<br>頭数: 1頭<br>発生地域: 東黒石野三丁目<br>緯度: 39.74868066<br>経度: 141.1583129<br>説明: 旧松園第一病院付近で成獣１頭を目撃。北東に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年11月3日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>9:30</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>東黒石野三丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.74868066</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1583129</value>
+          </Data>
+          <Data name="説明">
+            <value>旧松園第一病院付近で成獣１頭を目撃。北東に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1583129,39.74868066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年11月3日(長橋町)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月3日<br>出没時間: 19:35<br>成獣/幼獣: 幼獣<br>頭数: 1頭<br>発生地域: 長橋町<br>緯度: 39.72190864<br>経度: 141.1026359<br>説明: 有料老人ホーム付近で幼獣1頭を目撃。東に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年11月3日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>19:35</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>幼獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>長橋町</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.72190864</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1026359</value>
+          </Data>
+          <Data name="説明">
+            <value>有料老人ホーム付近で幼獣1頭を目撃。東に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1026359,39.72190864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年11月6日(梨木町11)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月6日<br>出没時間: 7:05<br>成獣/幼獣: 不明<br>頭数: 1頭<br>発生地域: 梨木町11<br>緯度: 39.71254857<br>経度: 141.1364336<br>説明: 岩手大学学生寮付近でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年11月6日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>7:05</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>梨木町11</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71254857</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1364336</value>
+          </Data>
+          <Data name="説明">
+            <value>岩手大学学生寮付近でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1364336,39.71254857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年11月6日(小鳥沢二丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月6日<br>出没時間: 8:19<br>成獣/幼獣: 不明<br>頭数: 1頭<br>発生地域: 小鳥沢二丁目<br>緯度: 39.7666806<br>経度: 141.1706218<br>説明: ゴミステーション付近でクマ１頭目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年11月6日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8:19</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>1頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>小鳥沢二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.7666806</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1706218</value>
+          </Data>
+          <Data name="説明">
+            <value>ゴミステーション付近でクマ１頭目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1706218,39.7666806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年11月7日(本宮字蛇屋敷)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月7日<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 本宮字蛇屋敷<br>緯度: 39.6945894<br>経度: 141.129999<br>説明: 中央公園付近でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年11月7日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>本宮字蛇屋敷</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.6945894</value>
+          </Data>
+          <Data name="経度">
+            <value>141.129999</value>
+          </Data>
+          <Data name="説明">
+            <value>中央公園付近でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.129999,39.6945894,0
           </coordinates>
         </Point>
       </Placemark>
