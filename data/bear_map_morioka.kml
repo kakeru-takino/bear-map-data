@@ -40296,6 +40296,84 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年11月14日(緑が丘三丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月14日<br>出没時間: 不明<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 緑が丘三丁目<br>緯度: 39.73755161<br>経度: 141.1486724<br>説明: 住宅地内でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年11月14日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>不明</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>緑が丘三丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.73755161</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1486724</value>
+          </Data>
+          <Data name="説明">
+            <value>住宅地内でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1486724,39.73755161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>令和8年11月15日(北山二丁目)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年11月15日<br>出没時間: 11:05<br>成獣/幼獣: 不明<br>頭数: １頭<br>発生地域: 北山二丁目<br>緯度: 39.71883167<br>経度: 141.1493459<br>説明: 北山散策路西側の林でクマ１頭を目撃。（移動方向不明）]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年11月15日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>11:05</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>不明</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>北山二丁目</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.71883167</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1493459</value>
+          </Data>
+          <Data name="説明">
+            <value>北山散策路西側の林でクマ１頭を目撃。（移動方向不明）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1493459,39.71883167,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
